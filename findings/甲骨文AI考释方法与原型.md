@@ -124,18 +124,18 @@
 
 | 未释字 | 本字辞例 | 平行辞例推出的同位字 | 完整串在语料中出现 |
 |---|---|---|---|
-| 󵖪 | `卜 爭 □` | **貞**（6460 次） | 1 |
-| 󴲍 | `己 □` | **丑**（602 次） | 4 |
-| 󹛛 | `癸 亥 卜 □ 貞 旬 亡` | **史**（173 次） | 1 |
-| 󹥠 / 󴷨 | `叀 □ 令` | **畢**（87 次） | 3 |
-| 󵀈 | `隹 㞢 □` | **雨**（1384 次） | 1 |
-| 󾒻 | `□ 以` | **貞**（6460 次） | 5 |
-| 󾣲 | `自 □` | **西**（62 次） | 3 |
-| 󻟟 | `不 □` | **隹**（314 次） | 2 |
-| 󾤶 | `于 □` | **帚**（178 次） | 1 |
-| 󴆻 | `勿 □` | **于**（2291 次） | 1 |
-| 󿧠 | `□ 且 乙` | **來**（346 次） | 1 |
-| 󹲙 | `辛 卯 卜 尞 于 □` | **䖵**（10 次） | — |
+| <img src="../glyphs/zgipta73eu.png" alt="字形" height="20" align="middle"> | `卜 爭 □` | **貞**（6460 次） | 1 |
+| <img src="../glyphs/x8df98b9m0.png" alt="字形" height="20" align="middle"> | `己 □` | **丑**（602 次） | 4 |
+| <img src="../glyphs/hxwcv9yfyk.png" alt="字形" height="20" align="middle"> | `癸 亥 卜 □ 貞 旬 亡` | **史**（173 次） | 1 |
+| <img src="../glyphs/ahpipvmufk.png" alt="字形" height="20" align="middle"> / <img src="../glyphs/gcl8bbz6jf.png" alt="字形" height="20" align="middle"> | `叀 □ 令` | **畢**（87 次） | 3 |
+| <img src="../glyphs/5xld7x764s.png" alt="字形" height="20" align="middle"> | `隹 㞢 □` | **雨**（1384 次） | 1 |
+| <img src="../glyphs/z6qjin0qqt.png" alt="字形" height="20" align="middle"> | `□ 以` | **貞**（6460 次） | 5 |
+| <img src="../glyphs/64kpdgz5dw.png" alt="字形" height="20" align="middle"> | `自 □` | **西**（62 次） | 3 |
+| <img src="../glyphs/xllb905eed.png" alt="字形" height="20" align="middle"> | `不 □` | **隹**（314 次） | 2 |
+| <img src="../glyphs/8afjjg2cyc.png" alt="字形" height="20" align="middle"> | `于 □` | **帚**（178 次） | 1 |
+| <img src="../glyphs/g5n5rqvdxo.png" alt="字形" height="20" align="middle"> | `勿 □` | **于**（2291 次） | 1 |
+| <img src="../glyphs/bt5y2iq3kp.png" alt="字形" height="20" align="middle"> | `□ 且 乙` | **來**（346 次） | 1 |
+| <img src="../glyphs/4zhjejk00h.png" alt="字形" height="20" align="middle"> | `辛 卯 卜 尞 于 □` | **䖵**（10 次） | — |
 
 ### 3.4 必须说清楚的局限（否则就是学术不端）
 
