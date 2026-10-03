@@ -1,6 +1,9 @@
-# 甲骨文未释字：专家评审包
+# 甲骨文未释字：专家评审包（完整版）
 
 **Expert Review Package — Oracle Bone Undeciphered Glyphs**
+
+> **先看根目录的 [README](../README.md)** —— 那里有浓缩版，一页说清两个待判定问题。
+> 本文件是完整版，含全量数据、原始记录与逐条核实细节。
 
 编制：2026-10-03　｜　仓库：<https://github.com/gaogao94/oracle-bone-undeciphered-audit>
 
