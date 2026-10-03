@@ -1,0 +1,5287 @@
+[
+ {
+  "glyph": "󹃑",
+  "label": "cdd4p6xm9e",
+  "freq": 140,
+  "plate": "279",
+  "group": "典賓B",
+  "ob": "貞 󿔣 以 羌 󹃑 自 高 匕 己 匕 庚 于 毓 匕 己",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󿔣": 1,
+   "󹃑": 1,
+   "匕": 1,
+   "己": 1
+  },
+  "corpus": "鼎（貞）：以羌，自高匕（妣）己、匕（妣）庚于毓。"
+ },
+ {
+  "glyph": "󹃑",
+  "label": "cdd4p6xm9e",
+  "freq": 140,
+  "plate": "313",
+  "group": "賓出",
+  "ob": "貞 翌 乙 亥 㞢 󹃑 歲 于 唐 卌 羌 卯 卅 牛 󾰧",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "翌": 1,
+   "󹃑": 1,
+   "卌": 1,
+   "卅": 1,
+   "󾰧": 1
+  },
+  "corpus": "乙未。 癸酉。 鼎（貞）：𢎥（勿）乎（呼）。六月。 鼎（貞）：翼（翌）乙亥㞢歲于唐三十羌，卯三十牛。六月。 鼎（貞）：于來乙酉酒。"
+ },
+ {
+  "glyph": "󹃑",
+  "label": "cdd4p6xm9e",
+  "freq": 140,
+  "plate": "377",
+  "group": "賓出",
+  "ob": "庚 辰 卜 貞 卒 󹃑 歲 乍 󇰠 自 且 乙 至 于 丁 󾰺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "卒": 1,
+   "󹃑": 1,
+   "󇰠": 1,
+   "󾰺": 1
+  },
+  "corpus": "庚辰卜，鼎（貞）：㞢于岳*三羌、三小，卯三牛。 一 庚辰卜，鼎（貞）：衣（卒）歲乍（作） ※，自且（祖）乙至于丁。十二月。 一"
+ },
+ {
+  "glyph": "󳪫",
+  "label": "2lep30tiiz",
+  "freq": 71,
+  "plate": "95",
+  "group": "典賓B",
+  "ob": "貞 󳪫 率 以 羆 芻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳪫": 1,
+   "羆": 1
+  },
+  "corpus": "鼎（貞）：且（祖）辛不我害。 鼎（貞）：且（祖）辛害我。 鼎（貞）：率以（罝）芻。 ……尹…"
+ },
+ {
+  "glyph": "󳪫",
+  "label": "2lep30tiiz",
+  "freq": 71,
+  "plate": "107",
+  "group": "典賓B",
+  "ob": "󳪫 來 芻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳪫": 1
+  },
+  "corpus": "…來芻… …弗其■… …我…"
+ },
+ {
+  "glyph": "󳪫",
+  "label": "2lep30tiiz",
+  "freq": 71,
+  "plate": "118",
+  "group": "賓一",
+  "ob": "戊 申 卜 賓 令 󳪫 取 析 芻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "賓": 1,
+   "󳪫": 1
+  },
+  "corpus": "戊申卜，𡧊（賓）：令取析芻。 一 二 三 四 二告 五"
+ },
+ {
+  "glyph": "󺡅",
+  "label": "gx21ndp7yy",
+  "freq": 54,
+  "plate": "5250",
+  "group": "事何類（賓）",
+  "ob": "王 󺡅 冓",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺡅": 1
+  },
+  "corpus": "鼎（貞）：王叀（惠）吉，不冓（遘）雨。 〔鼎（貞）〕：王〔叀（惠）吉〕，□冓（遘）〔雨〕。"
+ },
+ {
+  "glyph": "󺡅",
+  "label": "gx21ndp7yy",
+  "freq": 54,
+  "plate": "5250",
+  "group": "事何類（賓）",
+  "ob": "貞 王 󺡅 叀 吉 不 冓 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺡅": 1
+  },
+  "corpus": "鼎（貞）：王叀（惠）吉，不冓（遘）雨。 〔鼎（貞）〕：王〔叀（惠）吉〕，□冓（遘）〔雨〕。"
+ },
+ {
+  "glyph": "󺡅",
+  "label": "gx21ndp7yy",
+  "freq": 54,
+  "plate": "5252",
+  "group": "事何類（何）",
+  "ob": "辛 巳 卜 貞 王 󺡅 叀 吉",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "貞": 1,
+   "󺡅": 1
+  },
+  "corpus": "辛子（巳）卜，鼎（貞）：王叀（惠）吉。"
+ },
+ {
+  "glyph": "󷺊",
+  "label": "ff8rp0nh6u",
+  "freq": 40,
+  "plate": "4104",
+  "group": "賓出",
+  "ob": "于 翌 癸 卯 󷺊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "翌": 1,
+   "󷺊": 1
+  },
+  "corpus": "…于翼（翌）癸卯…。 鼎（貞）：令……"
+ },
+ {
+  "glyph": "󷺊",
+  "label": "ff8rp0nh6u",
+  "freq": 40,
+  "plate": "22698",
+  "group": "出二",
+  "ob": "丙 申 卜 旅 貞 王 賓 󾷎 󷺊 亡 祸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "賓": 1,
+   "󾷎": 1,
+   "󷺊": 1,
+   "祸": 1
+  },
+  "corpus": "丙申卜，旅鼎（貞）：王（賓）匚丙，亡𡆥（憂）。"
+ },
+ {
+  "glyph": "󷺊",
+  "label": "ff8rp0nh6u",
+  "freq": 40,
+  "plate": "22706",
+  "group": "出二",
+  "ob": "壬 申 卜 貞 王 賓 󾿏 󷺊 亡 祸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "賓": 1,
+   "󾿏": 1,
+   "󷺊": 1,
+   "祸": 1
+  },
+  "corpus": "壬申卜，□鼎（貞）：王（賓）示壬，亡𡆥（憂）。"
+ },
+ {
+  "glyph": "mepmffeebh",
+  "label": "mepmffeebh",
+  "freq": 37,
+  "plate": "553",
+  "group": "賓三",
+  "ob": "癸 丑 卜 賓 貞 令 彗 墉 以 ◻ 執 寇 七 月",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "賓": 1,
+   "貞": 1,
+   "墉": 1,
+   "寇": 1
+  },
+  "corpus": "癸丑卜，𡧊（賓）鼎（貞）：令彗、𠅷以黃執。七月。 己酉卜，鼎（貞）：（皆*）用。 鼎（貞）：自大□用攸牛。 …七月。"
+ },
+ {
+  "glyph": "mepmffeebh",
+  "label": "mepmffeebh",
+  "freq": 37,
+  "plate": "575",
+  "group": "典賓A",
+  "ob": "申 卜 爭 翌 戊 戌 򲆪 于 ◻ 奭",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "翌": 1,
+   "򲆪": 1
+  },
+  "corpus": "〔丙〕申卜，爭*：翼（翌）戊戌于黃奭。 一 二告 翼（翌）戊戌𢎥（勿）于黃奭。 二 鼎（貞）：亘㚔。 一 鼎（貞）：亘弗其㚔。 一"
+ },
+ {
+  "glyph": "mepmffeebh",
+  "label": "mepmffeebh",
+  "freq": 37,
+  "plate": "575",
+  "group": "典賓A",
+  "ob": "翌 戊 戌 勿 򲆪 于 ◻ 奭",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "翌": 1,
+   "勿": 1,
+   "򲆪": 1
+  },
+  "corpus": "〔丙〕申卜，爭*：翼（翌）戊戌于黃奭。 一 二告 翼（翌）戊戌𢎥（勿）于黃奭。 二 鼎（貞）：亘㚔。 一 鼎（貞）：亘弗其㚔。 一"
+ },
+ {
+  "glyph": "󼬜",
+  "label": "tq26tb9tj9",
+  "freq": 26,
+  "plate": "8121",
+  "group": "賓出",
+  "ob": "鑿 󿭂 在 󼬜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "鑿": 1,
+   "󿭂": 1,
+   "在": 1,
+   "󼬜": 1
+  },
+  "corpus": "…※（戠）…九月。才（在）。"
+ },
+ {
+  "glyph": "󼬜",
+  "label": "tq26tb9tj9",
+  "freq": 26,
+  "plate": "18451",
+  "group": "出二",
+  "ob": "󼬜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼬜": 1
+  },
+  "corpus": "庚戌〔卜〕，□鼎（貞）：今日… 十一月。〔才（在）〕。"
+ },
+ {
+  "glyph": "󼬜",
+  "label": "tq26tb9tj9",
+  "freq": 26,
+  "plate": "8122",
+  "group": "典賓或賓出",
+  "ob": "壬 午 日 󼬜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼬜": 1
+  },
+  "corpus": "壬午〔卜〕…日…。 鼎（貞）：…于…"
+ },
+ {
+  "glyph": "󷰤",
+  "label": "5i4ba39u9k",
+  "freq": 20,
+  "plate": "2585",
+  "group": "典賓B",
+  "ob": "貞 㞢 于 晦 󷰤 犬 三 羊 三 豕 卯",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "晦": 1,
+   "󷰤": 1
+  },
+  "corpus": "鼎（貞）：㞢于母犬、三羊、三豕…卯… 一"
+ },
+ {
+  "glyph": "󷰤",
+  "label": "5i4ba39u9k",
+  "freq": 20,
+  "plate": "14331",
+  "group": "典賓B",
+  "ob": "東 󷰤",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󷰤": 1
+  },
+  "corpus": "…東，… …西，犬，尞（燎）白□、幽□。 …〔羊，卯〕。"
+ },
+ {
+  "glyph": "󹙯",
+  "label": "yo5h3qdl2s",
+  "freq": 19,
+  "plate": "7956",
+  "group": "賓出",
+  "ob": "庚 貞 翌 辛 至 于 󹙯 禱 于",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "翌": 1,
+   "󹙯": 1,
+   "禱": 1
+  },
+  "corpus": "庚戌〔卜〕，□鼎（貞）：翼（翌）辛亥至于𦎫，𠦪（禱）于□乙。"
+ },
+ {
+  "glyph": "󹙯",
+  "label": "yo5h3qdl2s",
+  "freq": 19,
+  "plate": "8043",
+  "group": "典賓B",
+  "ob": "庚 見 帚 好 在 󹙯 󾯊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 1,
+   "󹙯": 1,
+   "󾯊": 1
+  },
+  "corpus": "…庚見…帚（婦）好…才（在）。一月。"
+ },
+ {
+  "glyph": "󹙯",
+  "label": "yo5h3qdl2s",
+  "freq": 19,
+  "plate": "8048",
+  "group": "典賓B",
+  "ob": "貞 勿 于 󹙯 用",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "勿": 1,
+   "󹙯": 1
+  },
+  "corpus": "鼎（貞）：𢎥（勿）于用。"
+ },
+ {
+  "glyph": "eadbesllam",
+  "label": "eadbesllam",
+  "freq": 17,
+  "plate": "647",
+  "group": "賓出",
+  "ob": "◻ 告 途 𰏯",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "途": 1,
+   "𰏯": 1
+  },
+  "corpus": "…奚……告…兆… …■…𠬞…王〔臣〕… 二"
+ },
+ {
+  "glyph": "eadbesllam",
+  "label": "eadbesllam",
+  "freq": 17,
+  "plate": "8335",
+  "group": "典賓？",
+  "ob": "貞 亡 屯 在 ◻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "在": 1
+  },
+  "corpus": "鼎（貞）：…亡屯（？）…才（在）兆。"
+ },
+ {
+  "glyph": "eadbesllam",
+  "label": "eadbesllam",
+  "freq": 17,
+  "plate": "8337",
+  "group": "典賓B",
+  "ob": "貞 㞢 佑 在 ◻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "佑": 1,
+   "在": 1
+  },
+  "corpus": "…鼎（貞）：…㞢（有）又（祐）。才（在）兆。 四"
+ },
+ {
+  "glyph": "󻉔",
+  "label": "jyskjcj861",
+  "freq": 12,
+  "plate": "3329",
+  "group": "典賓B",
+  "ob": "戎 󻉔 侯 二 月",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󻉔": 1
+  },
+  "corpus": "…戎侯。二月。"
+ },
+ {
+  "glyph": "󻉔",
+  "label": "jyskjcj861",
+  "freq": 12,
+  "plate": "5632",
+  "group": "師小字",
+  "ob": "󻉔 史",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󻉔": 1
+  },
+  "corpus": "……史…"
+ },
+ {
+  "glyph": "󻉔",
+  "label": "jyskjcj861",
+  "freq": 12,
+  "plate": "6848",
+  "group": "師賓間A",
+  "ob": "乙 丑 卜 𰀒 其 戎 眔 󻉔",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "𰀒": 1,
+   "󻉔": 1
+  },
+  "corpus": "乙丑卜：其戎眔。"
+ },
+ {
+  "glyph": "󲓩",
+  "label": "7b9lfpes9d",
+  "freq": 9,
+  "plate": "7005",
+  "group": "師賓間A",
+  "ob": "辰 卜 羴 戎 󲓩",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "羴": 1,
+   "󲓩": 1
+  },
+  "corpus": "□辰卜：□戎。"
+ },
+ {
+  "glyph": "󲓩",
+  "label": "7b9lfpes9d",
+  "freq": 9,
+  "plate": "7007",
+  "group": "師賓間A",
+  "ob": "辛 巳 卜 帚 不 戎 于 󲓩",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "󲓩": 1
+  },
+  "corpus": "辛子（巳）卜，王：帚（婦）不戎于。 三"
+ },
+ {
+  "glyph": "󲓩",
+  "label": "7b9lfpes9d",
+  "freq": 9,
+  "plate": "7008",
+  "group": "師賓間A",
+  "ob": "王 貞 󲓩 弗 戎 于 光",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󲓩": 1
+  },
+  "corpus": "□□卜，王鼎（貞）：弗戎于光。"
+ },
+ {
+  "glyph": "uhz6qrd2d9",
+  "label": "uhz6qrd2d9",
+  "freq": 6,
+  "plate": "3166",
+  "group": "典賓",
+  "ob": "乎 ◻",
+  "status": "合集解出",
+  "cand": "",
+  "extra": {
+   "": 1,
+   "二": 1
+  },
+  "missing": {},
+  "corpus": "乎（呼）…… 二"
+ },
+ {
+  "glyph": "uhz6qrd2d9",
+  "label": "uhz6qrd2d9",
+  "freq": 6,
+  "plate": "5373",
+  "group": "賓三",
+  "ob": "癸 酉 卜 爭 貞 王 風 不 ◻ 亡 延",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "風": 1,
+   "延": 1
+  },
+  "corpus": "癸酉卜，爭*鼎（貞）：王腹不安，亡𢓊（延）。"
+ },
+ {
+  "glyph": "uhz6qrd2d9",
+  "label": "uhz6qrd2d9",
+  "freq": 6,
+  "plate": "7821",
+  "group": "典賓A",
+  "ob": "王 ◻ 祭",
+  "status": "合集解出",
+  "cand": "二",
+  "extra": {
+   "二": 2,
+   "安": 1,
+   "*": 1,
+   "于": 1,
+   "翼": 1,
+   "用": 1
+  },
+  "missing": {},
+  "corpus": "…王安*…祭。 …于…翼（翌）…用。 二 …商辛酉。 二 …來… 四"
+ },
+ {
+  "glyph": "󹄉",
+  "label": "bu3h266vxh",
+  "freq": 6,
+  "plate": "20033",
+  "group": "師小字",
+  "ob": "卜 󹄉 󵜐 宋 犬",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹄉": 1,
+   "󵜐": 1
+  },
+  "corpus": "□■卜，…子宋…犬。"
+ },
+ {
+  "glyph": "󹄉",
+  "label": "bu3h266vxh",
+  "freq": 6,
+  "plate": "21367",
+  "group": "師小字",
+  "ob": "乙 巳 卜 󹄉 昷",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "󹄉": 1,
+   "昷": 1
+  },
+  "corpus": "乙子（巳）卜，，〔鼎（貞）〕：（殟）。 一"
+ },
+ {
+  "glyph": "󹄉",
+  "label": "bu3h266vxh",
+  "freq": 6,
+  "plate": "20022",
+  "group": "師小字",
+  "ob": "戊 午 卜 󹄉 㞢 󿭘",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹄉": 1,
+   "󿭘": 1
+  },
+  "corpus": "戊午卜，：㞢小王。"
+ },
+ {
+  "glyph": "󽮢",
+  "label": "wvxqqsz1w8",
+  "freq": 6,
+  "plate": "30329",
+  "group": "無名組",
+  "ob": "󽮢 󿫤 即 宗 廼 岳 于 之 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󽮢": 1,
+   "󿫤": 1,
+   "佑": 1
+  },
+  "corpus": "…岳*于之，又（有）大雨。 …既※小山…岳*即宗廼…岳*來于之，又（有）大雨。"
+ },
+ {
+  "glyph": "󽮢",
+  "label": "wvxqqsz1w8",
+  "freq": 6,
+  "plate": "30362",
+  "group": "何組",
+  "ob": "貞 󽮢 于 升",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󽮢": 1
+  },
+  "corpus": "鼎（貞）：※于升…"
+ },
+ {
+  "glyph": "󽮢",
+  "label": "wvxqqsz1w8",
+  "freq": 6,
+  "plate": "30454",
+  "group": "無名組",
+  "ob": "其 󽮢 󰢥 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󽮢": 1,
+   "󰢥": 1,
+   "佑": 1
+  },
+  "corpus": "…其※，又（有）大雨。 吉"
+ },
+ {
+  "glyph": "󳱥",
+  "label": "qh2w0s40kw",
+  "freq": 5,
+  "plate": "1378",
+  "group": "師賓間",
+  "ob": "󳱥 󾰧",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳱥": 1,
+   "󾰧": 1
+  },
+  "corpus": "…。六月。 庚子〔卜〕，鼎（貞）：㞢〔于〕成…"
+ },
+ {
+  "glyph": "󳱥",
+  "label": "qh2w0s40kw",
+  "freq": 5,
+  "plate": "3324",
+  "group": "師賓間或賓",
+  "ob": "󳱥 侯",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳱥": 1
+  },
+  "corpus": "…侯。"
+ },
+ {
+  "glyph": "󳱥",
+  "label": "qh2w0s40kw",
+  "freq": 5,
+  "plate": "8116",
+  "group": "師賓間",
+  "ob": "乙 丑 卜 貞 王 尋 于 󳱥",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳱥": 1
+  },
+  "corpus": "乙丑卜，鼎（貞）：王…尋于。"
+ },
+ {
+  "glyph": "󲤼",
+  "label": "792pre0fm3",
+  "freq": 5,
+  "plate": "4491",
+  "group": "賓出",
+  "ob": "貞 叀 󲤼 令 伐",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󲤼": 1,
+   "伐": 1
+  },
+  "corpus": "鼎（貞）：… 鼎（貞）：叀（惠）令※。"
+ },
+ {
+  "glyph": "󲤼",
+  "label": "792pre0fm3",
+  "freq": 5,
+  "plate": "8234",
+  "group": "典賓B",
+  "ob": "󲤼",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲤼": 1
+  },
+  "corpus": "…■… …■… …往于…"
+ },
+ {
+  "glyph": "󲤼",
+  "label": "792pre0fm3",
+  "freq": 5,
+  "plate": "8235",
+  "group": "賓出",
+  "ob": "貞 翌 庚 戌 步 于 󲤼",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "翌": 1,
+   "󲤼": 1
+  },
+  "corpus": "鼎（貞）：于辛亥步。 鼎（貞）：翼（翌）庚戌步于。 癸酉卜，鼎（貞）：尞（燎）于丁五小，卯五牛。 鼎（貞）：彗眔𠅷弗其以㞢（有）取。"
+ },
+ {
+  "glyph": "󳈆",
+  "label": "0fig5rmiox",
+  "freq": 5,
+  "plate": "14348",
+  "group": "典賓B",
+  "ob": "乙 卯 卜 殻 貞 于 󳈆 示 夌",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "殻": 1,
+   "貞": 1,
+   "󳈆": 1,
+   "示": 1,
+   "夌": 1
+  },
+  "corpus": "乙卯卜，㱿鼎（貞）：于壬〔𠦪（禱）〕。 三 （“壬”為“示”字誤）"
+ },
+ {
+  "glyph": "󳈆",
+  "label": "0fig5rmiox",
+  "freq": 5,
+  "plate": "14349",
+  "group": "典賓B",
+  "ob": "貞 于 󳈆 示 禱",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳈆": 1,
+   "禱": 1
+  },
+  "corpus": "…𠦪（禱）…于… 鼎（貞）：于示𠦪（禱）。"
+ },
+ {
+  "glyph": "󳈆",
+  "label": "0fig5rmiox",
+  "freq": 5,
+  "plate": "14350",
+  "group": "典賓B",
+  "ob": "于 󳈆",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳈆": 1
+  },
+  "corpus": "…于…"
+ },
+ {
+  "glyph": "󳏬",
+  "label": "dzob6ag7n1",
+  "freq": 5,
+  "plate": "30632",
+  "group": "何組",
+  "ob": "癸 丑 卜 򶫺 貞 󳏬 至 叀 祝",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򶫺": 1,
+   "貞": 1,
+   "󳏬": 1
+  },
+  "corpus": "癸丑卜，犾鼎（貞）：※至叀（惠）…祝。 …王……蔡（？）…"
+ },
+ {
+  "glyph": "󳏬",
+  "label": "dzob6ag7n1",
+  "freq": 5,
+  "plate": "30885",
+  "group": "何組",
+  "ob": "癸 亥 卜 򶫺 貞 叀 󳏬 至 王 受 佑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򶫺": 1,
+   "貞": 1,
+   "󳏬": 1,
+   "佑": 1
+  },
+  "corpus": "癸亥卜，※鼎（貞）：叀（惠）※至，王受※（有祐）。 于■…酒…"
+ },
+ {
+  "glyph": "󾗋",
+  "label": "1r30xz0nrz",
+  "freq": 5,
+  "plate": "32048",
+  "group": "歷草、歷二B1同版",
+  "ob": "癸 亥 卜 令 󳪫 󾗋 比 沚 戈 曾 󼯭 祸 土 石 奠 名 任",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳪫": 1,
+   "󾗋": 1,
+   "曾": 1,
+   "󼯭": 1,
+   "祸": 1
+  },
+  "corpus": "辛… 辛〔酉〕…帚（歸）沚〔戈〕。 辛酉叀（惠）甫令。 于癸令。 癸亥卜：令比沚戈※𡆥（憂）土石奠名任。 …令…尸（夷）…方… …又伐〔于〕司三十（羌），卯三十豲。"
+ },
+ {
+  "glyph": "󾗋",
+  "label": "1r30xz0nrz",
+  "freq": 5,
+  "plate": "33208",
+  "group": "師組※類",
+  "ob": "甲 子 卜 王 从 東 戈 󾗋 侯 翦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾗋": 1,
+   "翦": 1
+  },
+  "corpus": "甲子卜：王从東戈侯，（翦）。 乙丑卜：王从南戈侯，（翦）。 丙寅卜：王从西戈侯，（翦）。 丁卯卜：王从北戈侯，（翦）。 □辰卜… 弜（勿）□羌。 兕 兕 兕 （“兕”字豎刻）"
+ },
+ {
+  "glyph": "󾗋",
+  "label": "1r30xz0nrz",
+  "freq": 5,
+  "plate": "33208",
+  "group": "師組※類",
+  "ob": "乙 丑 卜 王 从 南 戈 󾗋 侯 翦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾗋": 1,
+   "翦": 1
+  },
+  "corpus": "甲子卜：王从東戈侯，（翦）。 乙丑卜：王从南戈侯，（翦）。 丙寅卜：王从西戈侯，（翦）。 丁卯卜：王从北戈侯，（翦）。 □辰卜… 弜（勿）□羌。 兕 兕 兕 （“兕”字豎刻）"
+ },
+ {
+  "glyph": "󱼮",
+  "label": "gbjr7sabn4",
+  "freq": 5,
+  "plate": "32049",
+  "group": "歷草",
+  "ob": "丙 寅 佑 伐 于 司 𥿆 卅 羌 卯 卅 󱼮",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "卅": 2,
+   "佑": 1,
+   "𥿆": 1,
+   "羌": 1,
+   "󱼮": 1
+  },
+  "corpus": "…甫…令。 辛酉于癸令。 一 丙寅又伐于司三十（羌），卯三十豲。 一 一 一"
+ },
+ {
+  "glyph": "󱼮",
+  "label": "gbjr7sabn4",
+  "freq": 5,
+  "plate": "32050",
+  "group": "歷二B1",
+  "ob": "丙 寅 卜 佑 伐 于 司 𥿆 卅 羌 卯 卅 󱼮",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "卅": 2,
+   "佑": 1,
+   "𥿆": 1,
+   "羌": 1,
+   "󱼮": 1
+  },
+  "corpus": "卯…■…三（？）… 三 丙寅卜：又伐于司三十（羌），卯三十豲。 三 丁卯卜：今日令。 三"
+ },
+ {
+  "glyph": "󱼮",
+  "label": "gbjr7sabn4",
+  "freq": 5,
+  "plate": "32513",
+  "group": "歷二B3",
+  "ob": "癸 未 貞 叀 今 乙 酉 佑 父 歲 于 且 乙 五 󱼮 茲 用",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "佑": 1,
+   "父": 1,
+   "󱼮": 1
+  },
+  "corpus": "于來… 三 癸未鼎（貞）：叀（惠）今乙酉又歲于且（祖）乙五豲。 茲用 三"
+ },
+ {
+  "glyph": "󵱙",
+  "label": "urzeocieq8",
+  "freq": 4,
+  "plate": "2886",
+  "group": "師賓間",
+  "ob": "󵱙 入",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵱙": 1
+  },
+  "corpus": "□□卜：…兄丁。 入。 （甲尾刻辭）"
+ },
+ {
+  "glyph": "󵱙",
+  "label": "urzeocieq8",
+  "freq": 4,
+  "plate": "6852",
+  "group": "師賓間A",
+  "ob": "󵱙 入",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵱙": 1
+  },
+  "corpus": "□亥卜：…𦎫。 入。 （甲尾刻辭）"
+ },
+ {
+  "glyph": "󵱙",
+  "label": "urzeocieq8",
+  "freq": 4,
+  "plate": "7839",
+  "group": "師賓間",
+  "ob": "󵱙 入",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵱙": 1,
+   "入": 1
+  },
+  "corpus": "…■方…人其…商。 目。 （尾甲刻辭，倒刻）"
+ },
+ {
+  "glyph": "󳸜",
+  "label": "243s3vaa73",
+  "freq": 4,
+  "plate": "4421",
+  "group": "典賓",
+  "ob": "隹 㞢 匕 咎 󳸜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "咎": 1,
+   "󳸜": 1
+  },
+  "corpus": "鼎（貞）：（禦）于㞢（有）匕（妣）。 隹（唯）㞢（有）匕（妣）※（咎）。 一 鼎（貞）：隹（唯）㞢（有）且（祖）※（咎）。"
+ },
+ {
+  "glyph": "󳸜",
+  "label": "243s3vaa73",
+  "freq": 4,
+  "plate": "4421",
+  "group": "典賓",
+  "ob": "貞 隹 㞢 且 咎 󳸜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "咎": 1,
+   "󳸜": 1
+  },
+  "corpus": "鼎（貞）：（禦）于㞢（有）匕（妣）。 隹（唯）㞢（有）匕（妣）※（咎）。 一 鼎（貞）：隹（唯）㞢（有）且（祖）※（咎）。"
+ },
+ {
+  "glyph": "󳸜",
+  "label": "243s3vaa73",
+  "freq": 4,
+  "plate": "4419",
+  "group": "典賓",
+  "ob": "示 󳸜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳸜": 1
+  },
+  "corpus": "…示…"
+ },
+ {
+  "glyph": "󺆸",
+  "label": "57qxiq8tsb",
+  "freq": 4,
+  "plate": "6535",
+  "group": "典賓B",
+  "ob": "王 徝 󺆸 方",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺆸": 1
+  },
+  "corpus": "…王徝方，受〔㞢（有）又（祐）〕。"
+ },
+ {
+  "glyph": "󺆸",
+  "label": "57qxiq8tsb",
+  "freq": 4,
+  "plate": "6539",
+  "group": "典賓B",
+  "ob": "王 伐 󺆸 󿫕 乎",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺆸": 1,
+   "󿫕": 1
+  },
+  "corpus": "〔鼎（貞）：今早〕王伐〔方，（登）人〕五千乎（呼）〔〕。"
+ },
+ {
+  "glyph": "󺆸",
+  "label": "57qxiq8tsb",
+  "freq": 4,
+  "plate": "6540",
+  "group": "典賓B",
+  "ob": "貞 今 早 王 伐 󺆸 方 登 人 󿫕 乎",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺆸": 1,
+   "登": 1,
+   "󿫕": 1
+  },
+  "corpus": "鼎（貞）：今早王伐方，（登）人五千乎（呼）。"
+ },
+ {
+  "glyph": "󾢘",
+  "label": "rr1b9eseyh",
+  "freq": 4,
+  "plate": "6544",
+  "group": "典賓B",
+  "ob": "旋 󾢘",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "旋": 1,
+   "󾢘": 1
+  },
+  "corpus": "…伐方，受〔㞢（有）又（祐）〕。 …■〔方〕…"
+ },
+ {
+  "glyph": "󾢘",
+  "label": "rr1b9eseyh",
+  "freq": 4,
+  "plate": "6545",
+  "group": "典賓B",
+  "ob": "徝 伐 󾢘",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾢘": 1
+  },
+  "corpus": "…徝伐〔方〕… ……"
+ },
+ {
+  "glyph": "󾢘",
+  "label": "rr1b9eseyh",
+  "freq": 4,
+  "plate": "6547",
+  "group": "典賓B",
+  "ob": "貞 王 勿 伐 󾢘",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "勿": 1,
+   "󾢘": 1
+  },
+  "corpus": "鼎（貞）：王𢎥（勿）（獸—狩）。 鼎（貞）：王𢎥（勿）伐。"
+ },
+ {
+  "glyph": "󳩐",
+  "label": "f8ilekqrfc",
+  "freq": 4,
+  "plate": "30319",
+  "group": "何組",
+  "ob": "其 󳩐 山 門 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳩐": 1,
+   "山": 1,
+   "門": 1,
+   "佑": 1
+  },
+  "corpus": "鼎（貞）：王其酒夒于又宗，又（有）大雨。 其𠦪（禱）※，又（有）大雨。"
+ },
+ {
+  "glyph": "󳩐",
+  "label": "f8ilekqrfc",
+  "freq": 4,
+  "plate": "31969",
+  "group": "歷二B2",
+  "ob": "丁 亥 卜 󳩐 于",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳩐": 1
+  },
+  "corpus": "丁亥卜：𠦪（禱）于… 二 丁亥卜：令眾※（退）田，受禾。 一 □子卜…"
+ },
+ {
+  "glyph": "󴱫",
+  "label": "jmlf3qvty5",
+  "freq": 4,
+  "plate": "22959",
+  "group": "何一",
+  "ob": "庚 󴱫 其",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴱫": 1
+  },
+  "corpus": "庚□〔卜〕，〔鼎（貞）〕：…其■… □□卜，〔鼎（貞）〕：…屯于…■且（祖）乙…"
+ },
+ {
+  "glyph": "󴱫",
+  "label": "jmlf3qvty5",
+  "freq": 4,
+  "plate": "22959",
+  "group": "何一",
+  "ob": "󴱫 屯 于 且 乙",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴱫": 1
+  },
+  "corpus": "庚□〔卜〕，〔鼎（貞）〕：…其■… □□卜，〔鼎（貞）〕：…屯于…■且（祖）乙…"
+ },
+ {
+  "glyph": "󴱫",
+  "label": "jmlf3qvty5",
+  "freq": 4,
+  "plate": "18099",
+  "group": "師小字—師賓間",
+  "ob": "󴱫 其 自",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴱫": 1,
+   "自": 1
+  },
+  "corpus": "…貝…其敖（？）。 辛卯…帚（婦）亡…𦔻（聽）。十一月。"
+ },
+ {
+  "glyph": "󼇉",
+  "label": "w7adb17snu",
+  "freq": 4,
+  "plate": "24131",
+  "group": "出二",
+  "ob": "寅 卜 即 王 其 󼇉",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼇉": 1
+  },
+  "corpus": "□寅卜，即〔鼎（貞）〕：王其󾄜…"
+ },
+ {
+  "glyph": "󼇉",
+  "label": "w7adb17snu",
+  "freq": 4,
+  "plate": "24442",
+  "group": "出二",
+  "ob": "卜 即 貞 其 󼇉 水",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󼇉": 1
+  },
+  "corpus": "□□卜，即〔鼎（貞）〕：…其󾄜…■水。"
+ },
+ {
+  "glyph": "󼇉",
+  "label": "w7adb17snu",
+  "freq": 4,
+  "plate": "4373",
+  "group": "賓出",
+  "ob": "򮞃 󼇉 競",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򮞃": 1,
+   "󼇉": 1
+  },
+  "corpus": "……※…競…"
+ },
+ {
+  "glyph": "󽮐",
+  "label": "b92fu80uys",
+  "freq": 4,
+  "plate": "19704",
+  "group": "賓出",
+  "ob": "卯 貞 󵜐 󽮐 不",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󵜐": 1,
+   "󽮐": 1
+  },
+  "corpus": "辛卯卜，□鼎（貞）：■…■子…■（𥞥）…不…"
+ },
+ {
+  "glyph": "󽮐",
+  "label": "b92fu80uys",
+  "freq": 4,
+  "plate": "29700",
+  "group": "歷無",
+  "ob": "壬 子 卜 其 󽮐 司 魚 茲 用",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󽮐": 1
+  },
+  "corpus": "壬子卜：其※司魚。 一 茲用 于室。 一 于※（遠）。 叀（惠）己又日。 茲用"
+ },
+ {
+  "glyph": "󽮐",
+  "label": "b92fu80uys",
+  "freq": 4,
+  "plate": "30381",
+  "group": "歷無？",
+  "ob": "癸 酉 卜 其 󽮐 二 示",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󽮐": 1,
+   "二": 1
+  },
+  "corpus": "卯叀（惠）□。 茲用 一 卯眢牛。 一 癸酉卜：其※三示。 …■…雨。 丁子（巳）卜：今日𢼄（啟）。 戊午卜：今日𢼄（啟）。"
+ },
+ {
+  "glyph": "󾗕",
+  "label": "ch53nwd306",
+  "freq": 4,
+  "plate": "33071",
+  "group": "師歷間",
+  "ob": "󾗕 丙 戎",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾗕": 1
+  },
+  "corpus": "……丙…戎…。 甲辰卜：侯雀。 一 甲辰卜：雀受侯又（佑）。 一 甲辰卜：雀（翦）侯。 二 □辰卜：侯（翦）雀。"
+ },
+ {
+  "glyph": "󾗕",
+  "label": "ch53nwd306",
+  "freq": 4,
+  "plate": "33071",
+  "group": "師歷間",
+  "ob": "甲 辰 卜 雀 翦 󾗕 侯",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "翦": 1,
+   "󾗕": 1
+  },
+  "corpus": "……丙…戎…。 甲辰卜：侯雀。 一 甲辰卜：雀受侯又（佑）。 一 甲辰卜：雀（翦）侯。 二 □辰卜：侯（翦）雀。"
+ },
+ {
+  "glyph": "󾗕",
+  "label": "ch53nwd306",
+  "freq": 4,
+  "plate": "33071",
+  "group": "師歷間",
+  "ob": "卜 󾗕 侯 雀",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾗕": 1
+  },
+  "corpus": "……丙…戎…。 甲辰卜：侯雀。 一 甲辰卜：雀受侯又（佑）。 一 甲辰卜：雀（翦）侯。 二 □辰卜：侯（翦）雀。"
+ },
+ {
+  "glyph": "󴋫",
+  "label": "vvqlhyb7jr",
+  "freq": 3,
+  "plate": "52",
+  "group": "賓三",
+  "ob": "殻 貞 王 其 啟 󴋫",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "殻": 1,
+   "貞": 1,
+   "啟": 1,
+   "󴋫": 1
+  },
+  "corpus": "鼎（貞）：王其𢼄（啟），※。 …※。 □□〔卜〕，古鼎（貞）：並亡𡿧（災），不喪眾。 □□〔卜〕，古鼎（貞）：幼才（在）… □□〔卜〕，古鼎（貞）：令並… □□〔卜〕，古鼎（貞）：■…"
+ },
+ {
+  "glyph": "󴋫",
+  "label": "vvqlhyb7jr",
+  "freq": 3,
+  "plate": "7066",
+  "group": "典賓B",
+  "ob": "貞 勿 取 臭 眔 󴋫",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "勿": 1,
+   "󴋫": 1
+  },
+  "corpus": "辛亥卜，𡧊（賓）〔鼎（貞）〕：取臭〔眔〕。 鼎（貞）：𢎥（勿）取臭眔。 二"
+ },
+ {
+  "glyph": "󴋫",
+  "label": "vvqlhyb7jr",
+  "freq": 3,
+  "plate": "24403",
+  "group": "出二",
+  "ob": "卜 即 貞 󶭵 于 󴋫 四 月",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶭵": 1,
+   "󴋫": 1
+  },
+  "corpus": "□□卜，即鼎（貞）：…于。四月。"
+ },
+ {
+  "glyph": "󲿅",
+  "label": "t2memeu0c4",
+  "freq": 3,
+  "plate": "1333",
+  "group": "賓出",
+  "ob": "貞 夕 󹟽 󲿅 滳",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󹟽": 1,
+   "󲿅": 1
+  },
+  "corpus": "…鼎（貞）：…（登）…唐…且（祖）乙… 鼎（貞）：…■… 鼎（貞）：夕……滳。 二"
+ },
+ {
+  "glyph": "󲿅",
+  "label": "t2memeu0c4",
+  "freq": 3,
+  "plate": "8117",
+  "group": "",
+  "ob": "允 往 于 󲿅",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲿅": 1
+  },
+  "corpus": "…允往…于※。"
+ },
+ {
+  "glyph": "󲿅",
+  "label": "t2memeu0c4",
+  "freq": 3,
+  "plate": "10495",
+  "group": "賓出",
+  "ob": "往 逐 󲿅",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲿅": 1
+  },
+  "corpus": "…往逐燕。 …翼（翌）日…王…"
+ },
+ {
+  "glyph": "󶷧",
+  "label": "04jjwtizii",
+  "freq": 3,
+  "plate": "1439",
+  "group": "典賓A？",
+  "ob": "甲 申 卜 亘 貞 󶷧 禱 于 大 甲",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶷧": 1,
+   "禱": 1
+  },
+  "corpus": "甲申卜，亘鼎（貞）：𠦪（禱）于大甲。"
+ },
+ {
+  "glyph": "󶷧",
+  "label": "04jjwtizii",
+  "freq": 3,
+  "plate": "3914",
+  "group": "典賓",
+  "ob": "󶷧 貞",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶷧": 1,
+   "貞": 1
+  },
+  "corpus": "□□〔卜〕，鼎（貞）：…獸■…"
+ },
+ {
+  "glyph": "󶷧",
+  "label": "04jjwtizii",
+  "freq": 3,
+  "plate": "18204",
+  "group": "典賓",
+  "ob": "癸 卯 卜 貞 󶷧 于",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶷧": 1
+  },
+  "corpus": "癸卯卜，鼎（貞）：󽓮■于…"
+ },
+ {
+  "glyph": "efgs491edx",
+  "label": "efgs491edx",
+  "freq": 3,
+  "plate": "3172",
+  "group": "典賓",
+  "ob": "󵜐 ◻ 于 晦 十 牢",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵜐": 1,
+   "晦": 1,
+   "牢": 1
+  },
+  "corpus": "…■子□于母□十。"
+ },
+ {
+  "glyph": "efgs491edx",
+  "label": "efgs491edx",
+  "freq": 3,
+  "plate": "15203",
+  "group": "典賓B",
+  "ob": "匚 在 ◻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 1
+  },
+  "corpus": "…才（在）匚… 一"
+ },
+ {
+  "glyph": "󷳏",
+  "label": "6p6efwrmid",
+  "freq": 3,
+  "plate": "3230",
+  "group": "典賓B",
+  "ob": "爭 貞 󵜐 󷳏 同 王 占 曰",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󵜐": 1,
+   "󷳏": 1,
+   "同": 1,
+   "占": 1
+  },
+  "corpus": "□□卜，爭*鼎（貞）：子肩凡…王（占）曰…丙… □□〔卜〕，爭*鼎（貞）：雨。"
+ },
+ {
+  "glyph": "󷳏",
+  "label": "6p6efwrmid",
+  "freq": 3,
+  "plate": "19723",
+  "group": "師小字",
+  "ob": "丁 酉 卜 王 󷳏",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󷳏": 1
+  },
+  "corpus": "丁酉卜，王：※。 …■…■…"
+ },
+ {
+  "glyph": "󾗰",
+  "label": "b5yn1tzci0",
+  "freq": 3,
+  "plate": "4065",
+  "group": "賓三",
+  "ob": "勿 󾗰",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "勿": 1,
+   "󾗰": 1
+  },
+  "corpus": "𢎥（勿）…。 鼎（貞）：（畢）𢎥（勿）立史。 一 鼎（貞）：𢎥（勿）㞢。六月。 一"
+ },
+ {
+  "glyph": "󾗰",
+  "label": "b5yn1tzci0",
+  "freq": 3,
+  "plate": "7784",
+  "group": "賓一",
+  "ob": "󾗰",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾗰": 1
+  },
+  "corpus": "□□卜… 八 □□卜，…庚…辰（？）… 鼎（貞）：王于生七月入于商。 八"
+ },
+ {
+  "glyph": "󾗰",
+  "label": "b5yn1tzci0",
+  "freq": 3,
+  "plate": "30524",
+  "group": "無名組",
+  "ob": "其 󾗰 登 王 受 佑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾗰": 1,
+   "登": 1,
+   "佑": 1
+  },
+  "corpus": "癸未… 𠩺。 其（禦）又史，王受又（佑）。 其，王受又（佑）。"
+ },
+ {
+  "glyph": "󾉇",
+  "label": "oqwz3j1hh1",
+  "freq": 3,
+  "plate": "4261",
+  "group": "賓三",
+  "ob": "󾉇",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾉇": 1
+  },
+  "corpus": "□□卜，𡧊（賓）〔鼎（貞）〕：…椎…。 一 …犬…用…牛。 乙亥… 丁丑〔卜〕，□鼎（貞）：于…般… 一"
+ },
+ {
+  "glyph": "󾉇",
+  "label": "oqwz3j1hh1",
+  "freq": 3,
+  "plate": "15502",
+  "group": "典賓",
+  "ob": "勿 󾉇 告",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "勿": 1,
+   "󾉇": 1
+  },
+  "corpus": "𢎥（勿）祼告■…歲… 三"
+ },
+ {
+  "glyph": "󾉇",
+  "label": "oqwz3j1hh1",
+  "freq": 3,
+  "plate": "30909",
+  "group": "無名組",
+  "ob": "咎 󾉇",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "咎": 1,
+   "󾉇": 1
+  },
+  "corpus": "□辰卜：王其遘雚㞢，弜（勿）…受（？）…"
+ },
+ {
+  "glyph": "󵈞",
+  "label": "d9vtt5msc1",
+  "freq": 3,
+  "plate": "4463",
+  "group": "典賓",
+  "ob": "庚 子 卜 爭 貞 󵈞 乎",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󵈞": 1
+  },
+  "corpus": "庚子卜，爭鼎（貞）：乎（呼）…"
+ },
+ {
+  "glyph": "󵈞",
+  "label": "d9vtt5msc1",
+  "freq": 3,
+  "plate": "12561",
+  "group": "典賓B",
+  "ob": "󵈞 來",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵈞": 1,
+   "來": 1
+  },
+  "corpus": "…〔來〕 …夕雨。四月。 …四…㞢（有）至…"
+ },
+ {
+  "glyph": "󵈞",
+  "label": "d9vtt5msc1",
+  "freq": 3,
+  "plate": "15909",
+  "group": "典賓",
+  "ob": "󵈞 示",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵈞": 1
+  },
+  "corpus": "…周宜。 示…"
+ },
+ {
+  "glyph": "󴩚",
+  "label": "nnm6jhv5jz",
+  "freq": 3,
+  "plate": "5644",
+  "group": "賓出",
+  "ob": "庚 午 貞 其 󴩚 史",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󴩚": 1
+  },
+  "corpus": "庚午〔卜〕，鼎（貞）：其…尹史… 一 一"
+ },
+ {
+  "glyph": "󴩚",
+  "label": "nnm6jhv5jz",
+  "freq": 3,
+  "plate": "17937",
+  "group": "師歷間？",
+  "ob": "󴩚 日 乇",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴩚": 1
+  },
+  "corpus": "…及日乇…"
+ },
+ {
+  "glyph": "󴩚",
+  "label": "nnm6jhv5jz",
+  "freq": 3,
+  "plate": "17973",
+  "group": "",
+  "ob": "庚 午 貞 其 󴩚 史",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "庚": 1,
+   "午": 1,
+   "貞": 1,
+   "其": 1,
+   "󴩚": 1,
+   "史": 1
+  },
+  "corpus": "05644"
+ },
+ {
+  "glyph": "󺔯",
+  "label": "hcj1lu3l9a",
+  "freq": 3,
+  "plate": "6615",
+  "group": "典賓B",
+  "ob": "戊 午 卜 殻 貞 勿 乎 御 羌 于 九 󺔯 弗 其 獲",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "殻": 1,
+   "貞": 1,
+   "勿": 1,
+   "御": 1,
+   "󺔯": 1,
+   "獲": 1
+  },
+  "corpus": "戊午卜，㱿鼎（貞）：𢎥（勿）乎（呼）（禦）羌于九，弗其隻（獲）。 一"
+ },
+ {
+  "glyph": "󺔯",
+  "label": "hcj1lu3l9a",
+  "freq": 3,
+  "plate": "18134",
+  "group": "典賓B晚",
+  "ob": "九 󺔯",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺔯": 1
+  },
+  "corpus": "…九󾘕…"
+ },
+ {
+  "glyph": "󺔯",
+  "label": "hcj1lu3l9a",
+  "freq": 3,
+  "plate": "18435",
+  "group": "典賓",
+  "ob": "󺔯",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺔯": 1
+  },
+  "corpus": "…󽱠… 五"
+ },
+ {
+  "glyph": "󵢇",
+  "label": "43h8h9jdqj",
+  "freq": 3,
+  "plate": "6621",
+  "group": "師賓間B",
+  "ob": "󵢇 󾰺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵢇": 1,
+   "󾰺": 1
+  },
+  "corpus": "…鼎（貞）：…𠭁（得）…旬㞢（又）一日戊…羌㞢（有）來。 …〔才（在）〕。十二月。"
+ },
+ {
+  "glyph": "󵢇",
+  "label": "43h8h9jdqj",
+  "freq": 3,
+  "plate": "8264",
+  "group": "師賓間",
+  "ob": "在 󵢇 󾰺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 1,
+   "󵢇": 1,
+   "󾰺": 1
+  },
+  "corpus": "…𠭁（得）…才（在）。十二月。"
+ },
+ {
+  "glyph": "󵢇",
+  "label": "43h8h9jdqj",
+  "freq": 3,
+  "plate": "8265",
+  "group": "師賓間",
+  "ob": "庚 申 貞 羌 不 其 㝵 󾰺 在 󵢇",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "羌": 1,
+   "㝵": 1,
+   "󾰺": 1,
+   "在": 1,
+   "󵢇": 1
+  },
+  "corpus": "庚申〔卜〕，…鼎（貞）：不其𠭁（得）。十二月。才（在）。 □□卜…翼（翌）丁卯王𢎥（勿）步。"
+ },
+ {
+  "glyph": "󲛑",
+  "label": "w0kil4h1qz",
+  "freq": 3,
+  "plate": "6661",
+  "group": "師賓間",
+  "ob": "壬 午 卜 王 取 󲛑 方",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲛑": 1
+  },
+  "corpus": "壬午卜，王：取※方。"
+ },
+ {
+  "glyph": "󲛑",
+  "label": "w0kil4h1qz",
+  "freq": 3,
+  "plate": "17391",
+  "group": "典賓B",
+  "ob": "貞 王 夢 㞢 殺 󲛑 十 叀 󾧪 不 隹 㭉",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "殺": 1,
+   "󲛑": 1,
+   "󾧪": 1,
+   "㭉": 1
+  },
+  "corpus": "鼎（貞）：王夢，㞢椎兔十。叀（惠）十一，不隹（唯）（？）…… 三 …□辰帚（婦）好大，𢓊（延）（殟）。"
+ },
+ {
+  "glyph": "󲛑",
+  "label": "w0kil4h1qz",
+  "freq": 3,
+  "plate": "20732",
+  "group": "師小字",
+  "ob": "缶 獲 󲛑 二",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲛑": 1
+  },
+  "corpus": "缶隻（獲)兕二。"
+ },
+ {
+  "glyph": "󹧹",
+  "label": "g0o67a8jpy",
+  "freq": 3,
+  "plate": "15667",
+  "group": "賓三",
+  "ob": "貞 󹧹 ◻ 且 中",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󹧹": 1
+  },
+  "corpus": "鼎（貞）：宓（？）…交…且（祖）…中… 三 □□卜，爭*鼎（貞）：…熹…"
+ },
+ {
+  "glyph": "󹧹",
+  "label": "g0o67a8jpy",
+  "freq": 3,
+  "plate": "32009",
+  "group": "歷二A2",
+  "ob": "庚 午 卜 󹧹 芻 于 千",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹧹": 1,
+   "于": 1
+  },
+  "corpus": "庚午卜：宓芻示千。"
+ },
+ {
+  "glyph": "󹧹",
+  "label": "g0o67a8jpy",
+  "freq": 3,
+  "plate": "32929",
+  "group": "歷一B",
+  "ob": "卜 叀 󹧹 令",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹧹": 1
+  },
+  "corpus": "叀（惠）王令侯歸。 （“侯”字倒刻） 叀（惠）王令目歸。 己酉卜：叀（惠）宓令。"
+ },
+ {
+  "glyph": "󾟷",
+  "label": "wi7jemi7yd",
+  "freq": 3,
+  "plate": "17108",
+  "group": "師賓間",
+  "ob": "亥 卜 乎 󾟷 祝 旅 女 祝 延 昷",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "祝": 2,
+   "󾟷": 1,
+   "女": 1,
+   "延": 1,
+   "昷": 1
+  },
+  "corpus": "癸亥卜，王〔鼎（貞）〕：乎（呼）丘乎（呼）旅母…𢓊（延）（殟）。"
+ },
+ {
+  "glyph": "󾟷",
+  "label": "wi7jemi7yd",
+  "freq": 3,
+  "plate": "22454",
+  "group": "師小字",
+  "ob": "叀 󾟷 豕 于 天",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾟷": 1
+  },
+  "corpus": "叀（惠）丘豕于天。"
+ },
+ {
+  "glyph": "󾟷",
+  "label": "wi7jemi7yd",
+  "freq": 3,
+  "plate": "26089",
+  "group": "出",
+  "ob": "󾟷 南 󶎇 若",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾟷": 1,
+   "南": 1,
+   "󶎇": 1
+  },
+  "corpus": "…■※豰■…若。"
+ },
+ {
+  "glyph": "󴫘",
+  "label": "tavwtgnfdp",
+  "freq": 3,
+  "plate": "20327",
+  "group": "師小字",
+  "ob": "󴫘",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴫘": 1
+  },
+  "corpus": "甲申…余宅…朿。 。"
+ },
+ {
+  "glyph": "󰿢",
+  "label": "h4ivjjlrr8",
+  "freq": 3,
+  "plate": "30178",
+  "group": "無名組",
+  "ob": "申 卜 其 去 雨 于 󰿢 童 利",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󰿢": 1
+  },
+  "corpus": "□申卜：其去雨于※童，利。"
+ },
+ {
+  "glyph": "󰿢",
+  "label": "h4ivjjlrr8",
+  "freq": 3,
+  "plate": "30681",
+  "group": "無名組",
+  "ob": "其 佑 于 󰿢 叀 雈 𮁧 用 卅",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "佑": 1,
+   "󰿢": 1,
+   "雈": 1,
+   "𮁧": 1,
+   "卅": 1
+  },
+  "corpus": "弜（勿）… 其又于※，叀（惠）舊（冊）用，三十…"
+ },
+ {
+  "glyph": "󰿢",
+  "label": "h4ivjjlrr8",
+  "freq": 3,
+  "plate": "33348",
+  "group": "無名",
+  "ob": "辛 巳 卜 其 尞 于 󰿢 即 尞",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "󰿢": 1
+  },
+  "corpus": "弜（勿）（寧）… 大水不各。 其各。 辛子（巳）卜：其尞于※。尞即。 ※。"
+ },
+ {
+  "glyph": "󰢥",
+  "label": "aawiifil1h",
+  "freq": 3,
+  "plate": "30393",
+  "group": "無名組",
+  "ob": "其 禱 年 󰢥 򪿍 于 󿫤 㲹 豚",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "禱": 1,
+   "󰢥": 1,
+   "򪿍": 1,
+   "󿫤": 1,
+   "㲹": 1
+  },
+  "corpus": "其𠦪（禱）年、于小山，豚。 眔叀（惠）小，又（有）大雨。 𩏏風叀（惠）豚，又（有）大雨。 …■…雨。"
+ },
+ {
+  "glyph": "󰢥",
+  "label": "aawiifil1h",
+  "freq": 3,
+  "plate": "30393",
+  "group": "無名組",
+  "ob": "󰢥 眔 򪿍 叀 小 牢 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󰢥": 1,
+   "򪿍": 1,
+   "牢": 1,
+   "佑": 1
+  },
+  "corpus": "其𠦪（禱）年、于小山，豚。 眔叀（惠）小，又（有）大雨。 𩏏風叀（惠）豚，又（有）大雨。 …■…雨。"
+ },
+ {
+  "glyph": "󰢥",
+  "label": "aawiifil1h",
+  "freq": 3,
+  "plate": "30454",
+  "group": "無名組",
+  "ob": "其 󽮢 󰢥 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󽮢": 1,
+   "󰢥": 1,
+   "佑": 1
+  },
+  "corpus": "…其※，又（有）大雨。 吉"
+ },
+ {
+  "glyph": "󺬚",
+  "label": "dciu80t6yw",
+  "freq": 3,
+  "plate": "32727",
+  "group": "歷一B",
+  "ob": "丙 辰 貞 王 󺬚 佑 丁 巳 涉",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺬚": 1,
+   "佑": 1,
+   "巳": 1
+  },
+  "corpus": "癸丑鼎（貞）：王步，乙卯。 丙辰鼎（貞）：王步，丁子（巳）于朝。 丙辰鼎（貞）：王𢓊（延），允丁子（巳）涉（？）。 辛酉卜：剛于父乙。"
+ },
+ {
+  "glyph": "󳓽",
+  "label": "krjznp1i0d",
+  "freq": 3,
+  "plate": "33041",
+  "group": "歷二B3",
+  "ob": "己 臿 󳓽 于 󻮼 冓",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "臿": 1,
+   "󳓽": 1,
+   "󻮼": 1
+  },
+  "corpus": "己亥…… 己亥…其于，冓（遘）。 弗冓（遘）。"
+ },
+ {
+  "glyph": "󳓽",
+  "label": "krjznp1i0d",
+  "freq": 3,
+  "plate": "33042",
+  "group": "歷二B3",
+  "ob": "己 巳 貞 並 臿 伐 󳓽 方 受 佑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "貞": 1,
+   "臿": 1,
+   "󳓽": 1,
+   "佑": 1
+  },
+  "corpus": "…子酒匚于上甲。 （“匚”字橫刻） 己子（巳）鼎（貞）：並伐方，受又（佑）。 並弗受又（佑）。 一 四牛。 一 其夕告…。"
+ },
+ {
+  "glyph": "󸳭",
+  "label": "ekqpz9e16e",
+  "freq": 2,
+  "plate": "1464",
+  "group": "師賓間？",
+  "ob": "大 甲 󸳭 王",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󸳭": 1
+  },
+  "corpus": "大甲王。"
+ },
+ {
+  "glyph": "󸳭",
+  "label": "ekqpz9e16e",
+  "freq": 2,
+  "plate": "6734",
+  "group": "典賓B",
+  "ob": "王 徝 方 帝 󸳭 王",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󸳭": 1
+  },
+  "corpus": "鼎（貞）：帝弗其〔王〕。 王徝方，帝王。"
+ },
+ {
+  "glyph": "󴿬",
+  "label": "rl4441yfop",
+  "freq": 2,
+  "plate": "2828",
+  "group": "賓出",
+  "ob": "甲 貞 󴿬",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󴿬": 1
+  },
+  "corpus": "甲□〔卜〕，鼎（貞）：…… 二 丁子（巳）卜，鼎（貞）：㞢于帚（婦）小。 一"
+ },
+ {
+  "glyph": "󳧍",
+  "label": "gtckp2vvj4",
+  "freq": 2,
+  "plate": "4406",
+  "group": "師賓間",
+  "ob": "壬 卜 󿬽 󳧍 不 其 至",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󿬽": 1,
+   "󳧍": 1
+  },
+  "corpus": "壬□卜：■四月※不其至。"
+ },
+ {
+  "glyph": "󳧍",
+  "label": "gtckp2vvj4",
+  "freq": 2,
+  "plate": "4407",
+  "group": "師賓間或典賓",
+  "ob": "󳧍 來 弗",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳧍": 1
+  },
+  "corpus": "…※來，弗…"
+ },
+ {
+  "glyph": "󵀒",
+  "label": "a7al7kr0c5",
+  "freq": 2,
+  "plate": "4479",
+  "group": "師小字",
+  "ob": "壬 辰 卜 叀 󵀒 令",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵀒": 1
+  },
+  "corpus": "…㞢…立… 壬辰卜：叀（惠）令。"
+ },
+ {
+  "glyph": "󵀒",
+  "label": "a7al7kr0c5",
+  "freq": 2,
+  "plate": "30442",
+  "group": "何組",
+  "ob": "卜 󲾜 󵀒 王 賓",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲾜": 1,
+   "󵀒": 1,
+   "賓": 1
+  },
+  "corpus": "■其冓（遘）雨。 □□卜：※（巂？）……王（賓）…"
+ },
+ {
+  "glyph": "󾢼",
+  "label": "nr79m4u3lq",
+  "freq": 2,
+  "plate": "5258",
+  "group": "事何類（何）",
+  "ob": "貞 王 叀 吉 󾢼",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󾢼": 1
+  },
+  "corpus": "鼎（貞）：王…叀（惠）吉燕。"
+ },
+ {
+  "glyph": "󾢼",
+  "label": "nr79m4u3lq",
+  "freq": 2,
+  "plate": "10063",
+  "group": "典賓—賓出",
+  "ob": "󾢼 它",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾢼": 1
+  },
+  "corpus": "……它… 二"
+ },
+ {
+  "glyph": "qpe695ed6v",
+  "label": "qpe695ed6v",
+  "freq": 2,
+  "plate": "6545",
+  "group": "典賓B",
+  "ob": "◻",
+  "status": "合集解出",
+  "cand": "徝",
+  "extra": {
+   "徝": 1,
+   "伐": 1,
+   "": 1,
+   "": 1
+  },
+  "missing": {},
+  "corpus": "…徝伐〔方〕… ……"
+ },
+ {
+  "glyph": "qpe695ed6v",
+  "label": "qpe695ed6v",
+  "freq": 2,
+  "plate": "7827",
+  "group": "典賓B",
+  "ob": "貞 商 ◻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1
+  },
+  "corpus": "…■…■… 鼎（貞）：…商……"
+ },
+ {
+  "glyph": "󼭲",
+  "label": "tralay3z26",
+  "freq": 2,
+  "plate": "6595",
+  "group": "典賓B",
+  "ob": "乎 臿 取 龔 友 于 󼭲 庶 以",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "臿": 1,
+   "󼭲": 1
+  },
+  "corpus": "鼎（貞）：乎（呼）行取龔友于，庶以。"
+ },
+ {
+  "glyph": "󲥈",
+  "label": "e7simxzm79",
+  "freq": 2,
+  "plate": "6910",
+  "group": "典賓B晚",
+  "ob": "癸 酉 卜 賓 貞 我 㚔 󲥈",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "賓": 1,
+   "貞": 1,
+   "󲥈": 1
+  },
+  "corpus": "癸酉卜，𡧊（賓）鼎（貞）：我㚔。"
+ },
+ {
+  "glyph": "󲥈",
+  "label": "e7simxzm79",
+  "freq": 2,
+  "plate": "6911",
+  "group": "典賓B晚",
+  "ob": "貞 我 㚔 󲥈",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󲥈": 1
+  },
+  "corpus": "鼎（貞）：我㚔。"
+ },
+ {
+  "glyph": "󹟸",
+  "label": "g3hpga6qu2",
+  "freq": 2,
+  "plate": "7032",
+  "group": "賓一",
+  "ob": "卜 貞 我 叀 󹟸 敦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󹟸": 1,
+   "敦": 1
+  },
+  "corpus": "□□卜，鼎（貞）：我叀（惠）※𦎫。"
+ },
+ {
+  "glyph": "󹟸",
+  "label": "g3hpga6qu2",
+  "freq": 2,
+  "plate": "7033",
+  "group": "賓一",
+  "ob": "丙 卜 王 隹 󹟸 敦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹟸": 1,
+   "敦": 1
+  },
+  "corpus": "丙□卜…王隹（唯）※𦎫。 二"
+ },
+ {
+  "glyph": "󼱽",
+  "label": "atf68cawqe",
+  "freq": 2,
+  "plate": "8940",
+  "group": "典賓",
+  "ob": "貞 乎 󼱽 򮛇 収 牛",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󼱽": 1,
+   "򮛇": 1,
+   "収": 1
+  },
+  "corpus": "…鼎（貞）：乎（呼）…※…𠬞牛。"
+ },
+ {
+  "glyph": "󼱽",
+  "label": "atf68cawqe",
+  "freq": 2,
+  "plate": "10507",
+  "group": "賓出",
+  "ob": "辛 王 󼱽",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼱽": 1
+  },
+  "corpus": "辛□〔卜〕…王…󽦜… 一"
+ },
+ {
+  "glyph": "󺈁",
+  "label": "8sxuwvgo44",
+  "freq": 2,
+  "plate": "9796",
+  "group": "典賓B",
+  "ob": "󺈁 受 年",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺈁": 1
+  },
+  "corpus": "…柲受年。"
+ },
+ {
+  "glyph": "󶬐",
+  "label": "42b1o4c46w",
+  "freq": 2,
+  "plate": "10409",
+  "group": "賓一",
+  "ob": "獲 兕 五 󶬐 于 東 󾰺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "獲": 1,
+   "󶬐": 1,
+   "󾰺": 1
+  },
+  "corpus": "…■隻（獲）兕五，于東。十二月。 甲子卜，㱿〔鼎（貞）〕：…"
+ },
+ {
+  "glyph": "󶬐",
+  "label": "42b1o4c46w",
+  "freq": 2,
+  "plate": "18169",
+  "group": "典賓B",
+  "ob": "乎 來 󶬐",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶬐": 1
+  },
+  "corpus": "…乎（呼）來……"
+ },
+ {
+  "glyph": "󺻧",
+  "label": "af435iu76k",
+  "freq": 2,
+  "plate": "11467",
+  "group": "師賓間",
+  "ob": "辛 酉 卜 方 其 󺻧 東",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺻧": 1
+  },
+  "corpus": "辛酉卜：方其東。 一 二 二告"
+ },
+ {
+  "glyph": "󺻧",
+  "label": "af435iu76k",
+  "freq": 2,
+  "plate": "20619",
+  "group": "師小字",
+  "ob": "甲 戌 卜 扶 貞 方 其 󺻧 于 東 九 夕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "扶": 1,
+   "󺻧": 1,
+   "夕": 1
+  },
+  "corpus": "甲戌卜，鼎（貞)：方其于東。九月。"
+ },
+ {
+  "glyph": "󲮢",
+  "label": "apuapt9wig",
+  "freq": 2,
+  "plate": "14049",
+  "group": "典賓B",
+  "ob": "貞 不 󲮢 薛 二 舌",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󲮢": 1,
+   "薛": 1,
+   "舌": 1
+  },
+  "corpus": "…娩…。 鼎（貞）：不隹（唯）孽。 一 二告 …一月。"
+ },
+ {
+  "glyph": "󲮢",
+  "label": "apuapt9wig",
+  "freq": 2,
+  "plate": "17388",
+  "group": "典賓B",
+  "ob": "乙 巳 卜 賓 貞 王 夢 箙 󲮢 孽",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "賓": 1,
+   "貞": 1,
+   "箙": 1,
+   "󲮢": 1,
+   "孽": 1
+  },
+  "corpus": "乙子（巳）卜，𡧊（賓）鼎（貞）：王夢𤰇󰴌，隹（唯）（孽）。"
+ },
+ {
+  "glyph": "󺆑",
+  "label": "fybnj2savm",
+  "freq": 2,
+  "plate": "15410",
+  "group": "賓出",
+  "ob": "貞 用 󺆑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺆑": 1
+  },
+  "corpus": "…鼎（貞）：用宁（賈）。"
+ },
+ {
+  "glyph": "󺆑",
+  "label": "fybnj2savm",
+  "freq": 2,
+  "plate": "32813",
+  "group": "師歷間",
+  "ob": "卜 王 比 侯 󺆑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺆑": 1
+  },
+  "corpus": "□子卜：王比侯伐…"
+ },
+ {
+  "glyph": "󵭯",
+  "label": "7jjbgcqg1h",
+  "freq": 2,
+  "plate": "17919",
+  "group": "賓一",
+  "ob": "庚 午 殻 貞 󵭯 其",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "殻": 1,
+   "貞": 1,
+   "󵭯": 1
+  },
+  "corpus": "庚午〔卜〕，㱿鼎（貞）：□其… 亡其…𩁹…"
+ },
+ {
+  "glyph": "󵭯",
+  "label": "7jjbgcqg1h",
+  "freq": 2,
+  "plate": "17919",
+  "group": "賓一",
+  "ob": "󵭯 亡 其 雩",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵭯": 1,
+   "雩": 1
+  },
+  "corpus": "庚午〔卜〕，㱿鼎（貞）：□其… 亡其…𩁹…"
+ },
+ {
+  "glyph": "󼵼",
+  "label": "yo32drds2u",
+  "freq": 2,
+  "plate": "17970",
+  "group": "賓出",
+  "ob": "丁 丑 卜 󼵼 于",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼵼": 1
+  },
+  "corpus": "丁丑卜，□鼎（貞）：…※于… □亥卜，□鼎（貞）：元…㞢（有）求（咎）…于…"
+ },
+ {
+  "glyph": "󼵼",
+  "label": "yo32drds2u",
+  "freq": 2,
+  "plate": "33274",
+  "group": "歷二C1",
+  "ob": "癸 未 貞 禱 禾 于 󼵼",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "禱": 1,
+   "󼵼": 1
+  },
+  "corpus": "己卯鼎（貞）：𠦪（禱）禾于□。 癸未鼎（貞）：𠦪（禱）禾于。 癸未鼎（貞）：𠦪（禱）禾于河。 三 癸未鼎（貞）：𠦪（禱）禾于岳*。 三 癸未卜：甲雨。 一 不雨。 一 乙酉卜：丁雨。 一 不雨。 一 一"
+ },
+ {
+  "glyph": "󾐧",
+  "label": "905tkjc9ui",
+  "freq": 2,
+  "plate": "19621",
+  "group": "賓三",
+  "ob": "賓 貞 󾐧 伐 火",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "賓": 1,
+   "貞": 1,
+   "󾐧": 1,
+   "伐": 1
+  },
+  "corpus": "□□〔卜〕，𡧊（賓）鼎（貞）：……火。"
+ },
+ {
+  "glyph": "󾐧",
+  "label": "905tkjc9ui",
+  "freq": 2,
+  "plate": "21760",
+  "group": "非王圓體類和劣體類",
+  "ob": "丙 戌 卜 我 貞 我 󾐧 不 獲",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󾐧": 1,
+   "獲": 1
+  },
+  "corpus": "丙戌卜，我鼎（貞）：我，不隻（獲）。"
+ },
+ {
+  "glyph": "󹜼",
+  "label": "bejesjhtdn",
+  "freq": 2,
+  "plate": "20298",
+  "group": "師小字",
+  "ob": "癸 酉 卜 豕 王 󹜼",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹜼": 1
+  },
+  "corpus": "癸酉卜，〔〕，豕王。"
+ },
+ {
+  "glyph": "󹜼",
+  "label": "bejesjhtdn",
+  "freq": 2,
+  "plate": "5339",
+  "group": "師小字",
+  "ob": "辛 酉 卜 王 千 󹜼",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹜼": 1
+  },
+  "corpus": "□□卜，王… 辛酉卜，王：千… 庚…"
+ },
+ {
+  "glyph": "󳩌",
+  "label": "hwj18cvm0i",
+  "freq": 2,
+  "plate": "24246",
+  "group": "出二",
+  "ob": "貞 亡 尤 在 󾰺 在 󳩌 卜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 2,
+   "貞": 1,
+   "󾰺": 1,
+   "󳩌": 1
+  },
+  "corpus": "鼎（貞）：亡尤。才（在）十二月。才（在）卜。 二"
+ },
+ {
+  "glyph": "󳩌",
+  "label": "hwj18cvm0i",
+  "freq": 2,
+  "plate": "30391",
+  "group": "無名組",
+  "ob": "󳩌 佑 于 帝 五 臣 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "佑": 2,
+   "󳩌": 1
+  },
+  "corpus": "辛亥卜…五臣不（？）… 王又歲于帝五臣，正，隹（唯）亡雨。 …卜（？）：※又于帝五臣，又（有）大雨。"
+ },
+ {
+  "glyph": "󷠝",
+  "label": "tr7pel9ndw",
+  "freq": 2,
+  "plate": "24355",
+  "group": "出二",
+  "ob": "卜 王 在 󾰺 在 󷠝 卜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 2,
+   "󾰺": 1,
+   "󷠝": 1
+  },
+  "corpus": "□午卜，王。才（在）十二月。〔才（在）〕※山卜。"
+ },
+ {
+  "glyph": "󷠝",
+  "label": "tr7pel9ndw",
+  "freq": 2,
+  "plate": "24357",
+  "group": "出二",
+  "ob": "辰 卜 王 在 󿭅 在 󷠝 卜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 2,
+   "王": 1,
+   "󿭅": 1,
+   "󷠝": 1
+  },
+  "corpus": "□辰卜，〔王〕。才（在）十一月。〔才（在）〕※山卜。"
+ },
+ {
+  "glyph": "󳻖",
+  "label": "0eoslpndnk",
+  "freq": 2,
+  "plate": "20822",
+  "group": "師小字",
+  "ob": "辛 未 󳻖 今 󾰺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳻖": 1,
+   "󾰺": 1
+  },
+  "corpus": "辛未〔卜〕…。今十二月。 二 辛未卜，于乙亥。 一 二"
+ },
+ {
+  "glyph": "󳻖",
+  "label": "0eoslpndnk",
+  "freq": 2,
+  "plate": "20822",
+  "group": "師小字",
+  "ob": "辛 未 卜 于 乙 亥 󳻖",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳻖": 1
+  },
+  "corpus": "辛未〔卜〕…。今十二月。 二 辛未卜，于乙亥。 一 二"
+ },
+ {
+  "glyph": "󸣽",
+  "label": "ae9cjv8zji",
+  "freq": 2,
+  "plate": "32277",
+  "group": "歷二A1",
+  "ob": "于 󸣽 次",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󸣽": 1,
+   "次": 1
+  },
+  "corpus": "𠂤般※（以）人于北奠。 人于。 于。 癸亥，伐即〔日〕，于〔丁〕卯。"
+ },
+ {
+  "glyph": "󸣽",
+  "label": "ae9cjv8zji",
+  "freq": 2,
+  "plate": "32278",
+  "group": "歷二A1",
+  "ob": "于 󸣽 次",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󸣽": 1,
+   "次": 1
+  },
+  "corpus": "𠂤般※（以）人于北奠。 人于。 于。 癸亥，伐即日，于丁卯。 己子（巳）卜：來己卯酒，王（禦）。 二 弜（勿）示千。"
+ },
+ {
+  "glyph": "󲌬",
+  "label": "lsjuogr2ev",
+  "freq": 2,
+  "plate": "32512",
+  "group": "歷二B3",
+  "ob": "癸 未 貞 叀 今 乙 酉 佑 父 歲 于 且 乙 五 󲌬 茲 用",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "佑": 1,
+   "父": 1,
+   "󲌬": 1
+  },
+  "corpus": "于來乙。 二 癸未鼎（貞）：叀（惠）今乙酉又歲于且（祖）乙五豲。 茲用 二"
+ },
+ {
+  "glyph": "󲷮",
+  "label": "32rwmop1h1",
+  "freq": 2,
+  "plate": "32832",
+  "group": "歷二B1",
+  "ob": "辛 未 貞 王 其 󲷮 于 并",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󲷮": 1
+  },
+  "corpus": "辛酉鼎（貞）：王令※（以）子方奠于并。 辛未鼎（貞）：王其于人（？）。 于壬十。 □申鼎（貞）：…禾于□，〔尞〕三牛，沈三牛。"
+ },
+ {
+  "glyph": "󲷮",
+  "label": "32rwmop1h1",
+  "freq": 2,
+  "plate": "32832",
+  "group": "歷二B1",
+  "ob": "于 壬 󲷮",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲷮": 1
+  },
+  "corpus": "辛酉鼎（貞）：王令※（以）子方奠于并。 辛未鼎（貞）：王其于人（？）。 于壬十。 □申鼎（貞）：…禾于□，〔尞〕三牛，沈三牛。"
+ },
+ {
+  "glyph": "󺉛",
+  "label": "hu47oaqoqg",
+  "freq": 2,
+  "plate": "33241",
+  "group": "歷一B",
+  "ob": "庚 辰 卜 佑 󺉛 人 其 南",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "佑": 1,
+   "󺉛": 1,
+   "人": 1
+  },
+  "corpus": "戊寅鼎（貞）：來歲大邑受禾。才（在）六月卜。 不受禾。 一 庚辰卜：方不出。 一 方其出。 一 庚辰卜：又※尸其東鄉。 一 庚辰卜：又※尸其南。 一 其北鄉。 一 其又牛。 一 不易日。 庚辰鼎（貞）：受禾。 一 庚辰卜：又※尸南。 其北鄉。 一 其東鄉。 一"
+ },
+ {
+  "glyph": "󺉛",
+  "label": "hu47oaqoqg",
+  "freq": 2,
+  "plate": "33241",
+  "group": "歷一B",
+  "ob": "庚 辰 卜 佑 󺉛 匕 南",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "佑": 1,
+   "󺉛": 1,
+   "匕": 1
+  },
+  "corpus": "戊寅鼎（貞）：來歲大邑受禾。才（在）六月卜。 不受禾。 一 庚辰卜：方不出。 一 方其出。 一 庚辰卜：又※尸其東鄉。 一 庚辰卜：又※尸其南。 一 其北鄉。 一 其又牛。 一 不易日。 庚辰鼎（貞）：受禾。 一 庚辰卜：又※尸南。 其北鄉。 一 其東鄉。 一"
+ },
+ {
+  "glyph": "󺹉",
+  "label": "umabbd0jwi",
+  "freq": 1,
+  "plate": "120",
+  "group": "典賓",
+  "ob": "己 未 卜 貞 乎 彗 󺹉 򩑺 逸 芻 󾴽",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺹉": 1,
+   "򩑺": 1,
+   "逸": 1,
+   "󾴽": 1
+  },
+  "corpus": "己未卜，□鼎（貞）：乎（呼）彗□（逸）芻。 十三月。"
+ },
+ {
+  "glyph": "󴐶",
+  "label": "56uvvmej7x",
+  "freq": 1,
+  "plate": "570",
+  "group": "賓三",
+  "ob": "丁 酉 卜 古 貞 󴐶 執 寇 򨲇",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󴐶": 1,
+   "寇": 1,
+   "򨲇": 1
+  },
+  "corpus": "丁酉卜，古鼎（貞）：元執，。"
+ },
+ {
+  "glyph": "󳒱",
+  "label": "ptmpax2kn8",
+  "freq": 1,
+  "plate": "1314",
+  "group": "典賓",
+  "ob": "貞 于 󳒱 寧 𢽝",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳒱": 1,
+   "寧": 1,
+   "𢽝": 1
+  },
+  "corpus": "鼎（貞）：于※。 自唐椎。 鼎（貞）：自唐椎。"
+ },
+ {
+  "glyph": "󹟽",
+  "label": "cbi1n9904r",
+  "freq": 1,
+  "plate": "1333",
+  "group": "賓出",
+  "ob": "貞 夕 󹟽 󲿅 滳",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󹟽": 1,
+   "󲿅": 1
+  },
+  "corpus": "…鼎（貞）：…（登）…唐…且（祖）乙… 鼎（貞）：…■… 鼎（貞）：夕……滳。 二"
+ },
+ {
+  "glyph": "󳳆",
+  "label": "p8shoneevj",
+  "freq": 1,
+  "plate": "1880",
+  "group": "典賓",
+  "ob": "貞 且 丁 󳳆 󿭂",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳳆": 1,
+   "󿭂": 1
+  },
+  "corpus": "鼎（貞）：且（祖）丁。九月。"
+ },
+ {
+  "glyph": "󵖪",
+  "label": "zgipta73eu",
+  "freq": 1,
+  "plate": "2562",
+  "group": "典賓B",
+  "ob": "卜 爭 󵖪",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵖪": 1
+  },
+  "corpus": "□□卜，爭*〔鼎（貞）〕：…… 𢎥（勿）于母庚告。"
+ },
+ {
+  "glyph": "󵾋",
+  "label": "jjzvqk37cu",
+  "freq": 1,
+  "plate": "2824",
+  "group": "賓三",
+  "ob": "貞 帚 󵾋 𰇑 冊 畫 󿫺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󵾋": 1,
+   "𰇑": 1,
+   "畫": 1,
+   "󿫺": 1
+  },
+  "corpus": "不〔其〕𠭁（得）。 鼎（貞）：𠭁（得）。 一 小告 鼎（貞）：帚（婦）冊。 一 小告"
+ },
+ {
+  "glyph": "󷟙",
+  "label": "77e3f8jri8",
+  "freq": 1,
+  "plate": "2935",
+  "group": "師小字",
+  "ob": "壬 寅 卜 兄 󷟙",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󷟙": 1
+  },
+  "corpus": "壬寅卜：兄※。"
+ },
+ {
+  "glyph": "󱏺",
+  "label": "z5begenlrf",
+  "freq": 1,
+  "plate": "2959",
+  "group": "師賓間或賓",
+  "ob": "󱏺 貞 󵜐 商",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󱏺": 1,
+   "貞": 1,
+   "󵜐": 1
+  },
+  "corpus": "□□〔卜〕，※鼎（貞）：子商…"
+ },
+ {
+  "glyph": "󵧍",
+  "label": "qhpxus7k8t",
+  "freq": 1,
+  "plate": "3270",
+  "group": "師賓間",
+  "ob": "癸 丑 卜 󵧍 󵜐 害",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵧍": 1,
+   "󵜐": 1,
+   "害": 1
+  },
+  "corpus": "癸丑卜…（孟）子韋…"
+ },
+ {
+  "glyph": "󼂦",
+  "label": "0lplfrdm68",
+  "freq": 1,
+  "plate": "3285",
+  "group": "賓三",
+  "ob": "甲 申 卜 貞 令 󼂦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󼂦": 1
+  },
+  "corpus": "甲申卜，■鼎（貞）：令■… 一"
+ },
+ {
+  "glyph": "󺜍",
+  "label": "7mtakgmbba",
+  "freq": 1,
+  "plate": "3942",
+  "group": "典賓",
+  "ob": "庚 子 卜 耳 貞 󺜍 不 昷",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺜍": 1,
+   "昷": 1
+  },
+  "corpus": "庚子卜，耳鼎（貞）：𤴨不（殟）。 一"
+ },
+ {
+  "glyph": "󽕰",
+  "label": "e95rv48otc",
+  "freq": 1,
+  "plate": "4095",
+  "group": "賓出",
+  "ob": "癸 亥 畢 󽕰",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "畢": 1,
+   "󽕰": 1
+  },
+  "corpus": "□□〔卜〕，鼎（貞）：……帚（婦）… 三 癸亥…（畢）……"
+ },
+ {
+  "glyph": "󳽖",
+  "label": "mw1n2p1voy",
+  "freq": 1,
+  "plate": "4448",
+  "group": "師小字",
+  "ob": "酉 卜 貞 󳽖 往 亡 祸 允 亡 祸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "祸": 2,
+   "貞": 1,
+   "󳽖": 1
+  },
+  "corpus": "□酉卜，王鼎（貞）：昃往來亡𡆥（憂）。允亡。"
+ },
+ {
+  "glyph": "󻖄",
+  "label": "brlxfsqi3r",
+  "freq": 1,
+  "plate": "5657",
+  "group": "賓出",
+  "ob": "󻖄 巫 󿭁",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󻖄": 1,
+   "󿭁": 1
+  },
+  "corpus": "巫。八月。"
+ },
+ {
+  "glyph": "󼨃",
+  "label": "a7mak4wuom",
+  "freq": 1,
+  "plate": "5759",
+  "group": "典賓",
+  "ob": "貞 󼨃 取 射",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󼨃": 1
+  },
+  "corpus": "鼎（貞）：取射。 二"
+ },
+ {
+  "glyph": "󲅾",
+  "label": "co7kntv3lh",
+  "freq": 1,
+  "plate": "5777",
+  "group": "典賓",
+  "ob": "隹 󲅾 令",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲅾": 1
+  },
+  "corpus": "…隹（唯）令。 □□〔卜〕，亘鼎（貞）：令侯… □□〔卜〕，□鼎（貞）：三百射乎（呼）■…"
+ },
+ {
+  "glyph": "󺆥",
+  "label": "alc6eyehym",
+  "freq": 1,
+  "plate": "6355",
+  "group": "典賓B",
+  "ob": "曰 𢀛 同 󺆥 其 敦 坕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "同": 1,
+   "󺆥": 1,
+   "敦": 1,
+   "坕": 1
+  },
+  "corpus": "…受㞢（有）又（祐）。□月。 …曰：“𢀛〔方〕凡…其𦎫…”，允…"
+ },
+ {
+  "glyph": "󶬥",
+  "label": "zk3pz24x5s",
+  "freq": 1,
+  "plate": "6676",
+  "group": "師賓間",
+  "ob": "壬 申 卜 王 方 其 󶬥 圍 八 夕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶬥": 1,
+   "夕": 1
+  },
+  "corpus": "壬申卜，王：方其□圍。八月。"
+ },
+ {
+  "glyph": "󼒹",
+  "label": "umntls2dlq",
+  "freq": 1,
+  "plate": "6764",
+  "group": "典賓B",
+  "ob": "戊 戌 卜 殻 貞 戉 㝵 方 󼒹 翦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "殻": 1,
+   "貞": 1,
+   "㝵": 1,
+   "󼒹": 1,
+   "翦": 1
+  },
+  "corpus": "戊戌卜，㱿鼎（貞）：戉𠭁（得）方（我—宜？），。 二"
+ },
+ {
+  "glyph": "󶹎",
+  "label": "lv4vlfcnzr",
+  "freq": 1,
+  "plate": "6908",
+  "group": "賓一",
+  "ob": "甲 午 卜 殻 貞 我 獲 󶹎 򸙀",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "殻": 1,
+   "貞": 1,
+   "獲": 1,
+   "󶹎": 1,
+   "򸙀": 1
+  },
+  "corpus": "甲午卜，㱿鼎（貞）：我隻（獲）。 …其■（雨？）…"
+ },
+ {
+  "glyph": "󺂧",
+  "label": "u2bx2sw1bv",
+  "freq": 1,
+  "plate": "6913",
+  "group": "典賓",
+  "ob": "貞 我 戎 󺂧",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󺂧": 1
+  },
+  "corpus": "鼎（貞）：我戎。"
+ },
+ {
+  "glyph": "󺆳",
+  "label": "9oqm32g594",
+  "freq": 1,
+  "plate": "6961",
+  "group": "師賓間A",
+  "ob": "󺆳 伐 򦵮",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󺆳": 1,
+   "򦵮": 1
+  },
+  "corpus": "…伐。"
+ },
+ {
+  "glyph": "󾣃",
+  "label": "hruffydq1k",
+  "freq": 1,
+  "plate": "6980",
+  "group": "師賓間B",
+  "ob": "雀 其 翦 󾣃",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "翦": 1,
+   "󾣃": 1
+  },
+  "corpus": "…雀其。"
+ },
+ {
+  "glyph": "󴸯",
+  "label": "5js6z3yvqi",
+  "freq": 1,
+  "plate": "7002",
+  "group": "師賓間A",
+  "ob": "󴸯 弗 翦 羴 󾯊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴸯": 1,
+   "翦": 1,
+   "羴": 1,
+   "󾯊": 1
+  },
+  "corpus": "…女巳于。 一 ※（抆）弗。一月。"
+ },
+ {
+  "glyph": "󳑆",
+  "label": "l1rav4fxk8",
+  "freq": 1,
+  "plate": "7014",
+  "group": "師賓間A",
+  "ob": "己 卯 卜 王 貞 余 乎 弜 敦 夌 余 弗 󳑆 弜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "弜": 2,
+   "貞": 1,
+   "敦": 1,
+   "夌": 1,
+   "󳑆": 1
+  },
+  "corpus": "己卯卜，王鼎（貞）：余乎（呼）𦎫敖，余弗※。 …■…歸…"
+ },
+ {
+  "glyph": "󼃈",
+  "label": "t997jxohr3",
+  "freq": 1,
+  "plate": "7362",
+  "group": "典賓B",
+  "ob": "卜 亘 貞 乎 収 󼃈 次",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "収": 1,
+   "󼃈": 1,
+   "次": 1
+  },
+  "corpus": "□□卜，亘鼎（貞）：乎（呼）𠬞（次）。"
+ },
+ {
+  "glyph": "󷳝",
+  "label": "f5d3yn2so6",
+  "freq": 1,
+  "plate": "7631",
+  "group": "典賓A",
+  "ob": "貞 翌 甲 󵜐 大 圍 󷳝",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "翌": 1,
+   "󵜐": 1,
+   "󷳝": 1
+  },
+  "corpus": "鼎（貞）：翼（翌）甲…■子大…圍。"
+ },
+ {
+  "glyph": "󳸒",
+  "label": "p5mp3xbn99",
+  "freq": 1,
+  "plate": "7769",
+  "group": "賓一",
+  "ob": "㞢 余 乎 󳸒",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "㞢": 1,
+   "󳸒": 1
+  },
+  "corpus": "…戎，余乎（呼）※。"
+ },
+ {
+  "glyph": "󴬁",
+  "label": "wl3zq7r5tr",
+  "freq": 1,
+  "plate": "8209",
+  "group": "賓出",
+  "ob": "令 󴬁 于 򮙎 亡 巛",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴬁": 1,
+   "򮙎": 1,
+   "亡": 1,
+   "巛": 1
+  },
+  "corpus": "□□卜，〔鼎（貞）〕：令于。 一"
+ },
+ {
+  "glyph": "󵭟",
+  "label": "yzl6vltidf",
+  "freq": 1,
+  "plate": "8231",
+  "group": "賓出",
+  "ob": "叀 王 往 臿 在 󵭟",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "臿": 1,
+   "在": 1,
+   "󵭟": 1
+  },
+  "corpus": "…叀（惠）王往，才（在）。"
+ },
+ {
+  "glyph": "󾣲",
+  "label": "64kpdgz5dw",
+  "freq": 1,
+  "plate": "8242",
+  "group": "歷一",
+  "ob": "自 󾣲",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾣲": 1
+  },
+  "corpus": "…自。※。"
+ },
+ {
+  "glyph": "󾤶",
+  "label": "8afjjg2cyc",
+  "freq": 1,
+  "plate": "8259",
+  "group": "典賓",
+  "ob": "于 󾤶",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾤶": 1
+  },
+  "corpus": "…于。"
+ },
+ {
+  "glyph": "󾒻",
+  "label": "z6qjin0qqt",
+  "freq": 1,
+  "plate": "9081",
+  "group": "典賓B",
+  "ob": "󾒻 以",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾒻": 1
+  },
+  "corpus": "…以。"
+ },
+ {
+  "glyph": "󻊓",
+  "label": "a4weam3zks",
+  "freq": 1,
+  "plate": "9086",
+  "group": "師賓間",
+  "ob": "乙 亥 卜 󻊓 以",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󻊓": 1
+  },
+  "corpus": "乙亥卜：以。 一 二 三 四"
+ },
+ {
+  "glyph": "󳏨",
+  "label": "76ba1nqq6s",
+  "freq": 1,
+  "plate": "10253",
+  "group": "賓出",
+  "ob": "癸 亥 卜 貞 󳏨 狐 逐",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳏨": 1
+  },
+  "corpus": "癸亥卜，鼎（貞）：狐逐。"
+ },
+ {
+  "glyph": "󴉹",
+  "label": "i72tgmcydj",
+  "freq": 1,
+  "plate": "10307",
+  "group": "典賓B",
+  "ob": "丁 卯 狩 圍 擒 獲 鹿 百 󾨖 二 百 十 四 豕 十 󴉹 一",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "狩": 1,
+   "圍": 1,
+   "擒": 1,
+   "獲": 1,
+   "󾨖": 1,
+   "󴉹": 1
+  },
+  "corpus": "丁卯〔卜〕，□〔鼎（貞）〕：（獸—狩）正…，隻（獲）…鹿百六十二，■百十四，豕十，※一。 癸□…"
+ },
+ {
+  "glyph": "󲍤",
+  "label": "7fgd3fbmzi",
+  "freq": 1,
+  "plate": "10467",
+  "group": "師賓間",
+  "ob": "卜 角 獲 󲍤",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "獲": 1,
+   "󲍤": 1
+  },
+  "corpus": "□酉卜：角隻（獲）。 角不其隻（獲）。 一 二 一告"
+ },
+ {
+  "glyph": "󰷪",
+  "label": "o6522xq6sh",
+  "freq": 1,
+  "plate": "10485",
+  "group": "師賓間",
+  "ob": "卯 󰷪 魚",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󰷪": 1
+  },
+  "corpus": "□卯……魚…"
+ },
+ {
+  "glyph": "󲷠",
+  "label": "vp4cxkje4s",
+  "freq": 1,
+  "plate": "10502",
+  "group": "賓出",
+  "ob": "亡 巛 往 逐 允 󲷠",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巛": 1,
+   "󲷠": 1
+  },
+  "corpus": "…■…亡𡿧（災）…往逐…■，允……"
+ },
+ {
+  "glyph": "󷦇",
+  "label": "5d0kwz72yy",
+  "freq": 1,
+  "plate": "10862",
+  "group": "賓出",
+  "ob": "乙 巳 貞 新 󷦇 獲",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "貞": 1,
+   "󷦇": 1,
+   "獲": 1
+  },
+  "corpus": "乙子（巳）卜，□鼎（貞）：新……隻（獲）。"
+ },
+ {
+  "glyph": "󿧠",
+  "label": "bt5y2iq3kp",
+  "freq": 1,
+  "plate": "12968",
+  "group": "賓一",
+  "ob": "󿧠 且 乙",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󿧠": 1
+  },
+  "corpus": "鼎（貞）：…己未… 翼（翌）癸亥其雨。癸亥允雨。 ※且（祖）乙。"
+ },
+ {
+  "glyph": "sawqk4xfna",
+  "label": "sawqk4xfna",
+  "freq": 1,
+  "plate": "14218",
+  "group": "典賓B",
+  "ob": "河 ◻",
+  "status": "合集解出",
+  "cand": "帝",
+  "extra": {
+   "帝": 1,
+   "": 1,
+   "": 1
+  },
+  "missing": {},
+  "corpus": "帝。 河。"
+ },
+ {
+  "glyph": "󳦑",
+  "label": "ptd0rmmnrv",
+  "freq": 1,
+  "plate": "15401",
+  "group": "師小字",
+  "ob": "丙 申 卜 待 弜 用 򴿌 󳦑 祐",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "待": 1,
+   "򴿌": 1,
+   "󳦑": 1,
+   "祐": 1
+  },
+  "corpus": "…尞（燎）… □□卜：圍… 一 丙申卜：戠（待），弜（勿）用󽧣，󽖎。 二"
+ },
+ {
+  "glyph": "󰶊",
+  "label": "944ledw1r7",
+  "freq": 1,
+  "plate": "15869",
+  "group": "典賓",
+  "ob": "其 󹃑 󰶊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹃑": 1,
+   "󰶊": 1
+  },
+  "corpus": "癸子（巳）〔卜〕，…鼎（貞）：…■… …其……"
+ },
+ {
+  "glyph": "󹛛",
+  "label": "hxwcv9yfyk",
+  "freq": 1,
+  "plate": "16739",
+  "group": "事何類",
+  "ob": "癸 亥 卜 󹛛 貞 旬 亡",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹛛": 1,
+   "貞": 1
+  },
+  "corpus": "癸卯〔卜〕，□鼎（貞）：〔旬〕亡〔𡆥（憂）〕。 三 〔癸〕□〔卜〕，事〔鼎（貞）〕：〔旬〕亡〔𡆥（憂）〕。 癸亥卜，鼎（貞）：旬亡𡆥（憂）。九月。"
+ },
+ {
+  "glyph": "󴦣",
+  "label": "2aqd8x0a8p",
+  "freq": 1,
+  "plate": "17330",
+  "group": "賓出",
+  "ob": "󴦣 不 大",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴦣": 1
+  },
+  "corpus": "…勿見，其㞢（有），亡匄。 …曰不大。"
+ },
+ {
+  "glyph": "󱘌",
+  "label": "dowi3lt0dv",
+  "freq": 1,
+  "plate": "17330",
+  "group": "賓出",
+  "ob": "勿 見 其 㞢 󱘌 亡 匄",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󱘌": 1
+  },
+  "corpus": "…勿見，其㞢（有），亡匄。 …曰不大。"
+ },
+ {
+  "glyph": "󾥗",
+  "label": "dsv4lhwhn7",
+  "freq": 1,
+  "plate": "17382",
+  "group": "典賓A",
+  "ob": "貞 二 月 󾥗 不 其 生",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󾥗": 1
+  },
+  "corpus": "…■𢎥（勿）… 一 丙子卜，㱿鼎（貞）：王夢妻，不隹（唯）〔𡆥（憂）〕。 鼎（貞）：…二月娩，不其…生。"
+ },
+ {
+  "glyph": "󴢲",
+  "label": "czrsscjxwh",
+  "freq": 1,
+  "plate": "17932",
+  "group": "師賓間",
+  "ob": "辛 未 卜 󴢲",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴢲": 1
+  },
+  "corpus": "辛未卜……"
+ },
+ {
+  "glyph": "󴆻",
+  "label": "g5n5rqvdxo",
+  "freq": 1,
+  "plate": "17981",
+  "group": "典賓A",
+  "ob": "勿 󴆻",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "勿": 1,
+   "󴆻": 1
+  },
+  "corpus": "…𢎥（勿）……"
+ },
+ {
+  "glyph": "󴪢",
+  "label": "m4rdm8ckxg",
+  "freq": 1,
+  "plate": "17982",
+  "group": "師賓間",
+  "ob": "戊 󴪢",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴪢": 1
+  },
+  "corpus": "戊……"
+ },
+ {
+  "glyph": "󵀈",
+  "label": "5xld7x764s",
+  "freq": 1,
+  "plate": "18004",
+  "group": "賓出",
+  "ob": "隹 㞢 󵀈",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵀈": 1
+  },
+  "corpus": "…■■…隹（唯）㞢……"
+ },
+ {
+  "glyph": "󶓈",
+  "label": "6bzmgp7e84",
+  "freq": 1,
+  "plate": "18136",
+  "group": "典賓B",
+  "ob": "貞 󶓈",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶓈": 1
+  },
+  "corpus": "鼎（貞）：■…帚（婦）… 鼎（貞）：㞢（有）。"
+ },
+ {
+  "glyph": "󶁳",
+  "label": "m4ruun8m3a",
+  "freq": 1,
+  "plate": "18142",
+  "group": "賓出",
+  "ob": "庚 子 卜 貞 其 󶁳 󶰙 于",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶁳": 1,
+   "󶰙": 1
+  },
+  "corpus": "庚子卜，鼎（貞）：其秉于…"
+ },
+ {
+  "glyph": "󶰙",
+  "label": "cit05izhs6",
+  "freq": 1,
+  "plate": "18142",
+  "group": "賓出",
+  "ob": "庚 子 卜 貞 其 󶁳 󶰙 于",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶁳": 1,
+   "󶰙": 1
+  },
+  "corpus": "庚子卜，鼎（貞）：其秉于…"
+ },
+ {
+  "glyph": "󶬷",
+  "label": "wu9j4fyp5p",
+  "freq": 1,
+  "plate": "18231",
+  "group": "賓出",
+  "ob": "行 史 󶬷 二 告",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶬷": 1
+  },
+  "corpus": "…■行史…… 一 二告 于…"
+ },
+ {
+  "glyph": "󾉳",
+  "label": "lvakruz2kz",
+  "freq": 1,
+  "plate": "19847",
+  "group": "師歷間A",
+  "ob": "甲 子 卜 扶 󾉳 馬 至 且 乙",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "扶": 1,
+   "󾉳": 1
+  },
+  "corpus": "甲子卜，：馬至且（祖）乙。 一 二 壬寅…于…𠦪（禱）… 二"
+ },
+ {
+  "glyph": "󲇕",
+  "label": "cky14hc1l9",
+  "freq": 1,
+  "plate": "19991",
+  "group": "師賓間",
+  "ob": "亞 󲇕 帚 鼠 曾",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲇕": 1
+  },
+  "corpus": "…■…亞※帚（婦）鼠曾…"
+ },
+ {
+  "glyph": "󶢝",
+  "label": "ze9pkdkqjd",
+  "freq": 1,
+  "plate": "20250",
+  "group": "師小字",
+  "ob": "戊 寅 󶢝 令 百",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶢝": 1
+  },
+  "corpus": "戊寅〔卜〕…令…百□。 三"
+ },
+ {
+  "glyph": "󶈎",
+  "label": "rzyrjgiv6m",
+  "freq": 1,
+  "plate": "20330",
+  "group": "師小字",
+  "ob": "庚 御 卜 王 余 示 󶈎 于 峀 肩 終",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "御": 1,
+   "󶈎": 1,
+   "峀": 1,
+   "肩": 1,
+   "終": 1
+  },
+  "corpus": "庚午卜，王，余〔〕…示于甫…𡆥（憂）。冬。"
+ },
+ {
+  "glyph": "󰾀",
+  "label": "usnmo2t72b",
+  "freq": 1,
+  "plate": "20347",
+  "group": "刀卜辭",
+  "ob": "今 夕 弜 󰾀",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󰾀": 1
+  },
+  "corpus": "庚… 庚不。 二 今夕弜（勿）。 二 今夕㞢史。 二 亞子。 二"
+ },
+ {
+  "glyph": "󽜻",
+  "label": "zbg97me31s",
+  "freq": 1,
+  "plate": "20587",
+  "group": "師肥筆",
+  "ob": "庚 辰 卜 󽜻 中 商",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󽜻": 1
+  },
+  "corpus": "庚辰卜：中商。 三"
+ },
+ {
+  "glyph": "󲡿",
+  "label": "krjxuj8jnv",
+  "freq": 1,
+  "plate": "20717",
+  "group": "師小字",
+  "ob": "󲡿 印 明 陰 不 其",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲡿": 1
+  },
+  "corpus": "…印。明（陰)，不其… 二"
+ },
+ {
+  "glyph": "󹒋",
+  "label": "8elvo4ws82",
+  "freq": 1,
+  "plate": "20726",
+  "group": "師小字",
+  "ob": "丁 亥 卜 今 日 󹒋 兕 允 獲 六",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹒋": 1,
+   "六": 1
+  },
+  "corpus": "丁亥卜，今日兕隻（獲)。允隻（獲)。冬。 一"
+ },
+ {
+  "glyph": "󾥸",
+  "label": "a5ajz0rgrm",
+  "freq": 1,
+  "plate": "20741",
+  "group": "師小字",
+  "ob": "丙 午 卜 扶 令 以 鳩 示 朿 󾥸 八 夕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "扶": 1,
+   "鳩": 1,
+   "󾥸": 1,
+   "夕": 1
+  },
+  "corpus": "□□〔卜〕，：今宁（賈)… 丙午卜，：令龍以舊示朿。八月。 丁酉卜，：田，九月。"
+ },
+ {
+  "glyph": "󼬎",
+  "label": "phxqocglhv",
+  "freq": 1,
+  "plate": "20743",
+  "group": "師小字",
+  "ob": "庚 子 卜 王 令 󼬎 田 九 夕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼬎": 1,
+   "夕": 1
+  },
+  "corpus": "庚子卜，王：令田老。九月。 王辰卜，王：匕（妣)㞢…十月。 一"
+ },
+ {
+  "glyph": "󱊾",
+  "label": "u5upr132uu",
+  "freq": 1,
+  "plate": "21210",
+  "group": "師小字",
+  "ob": "丁 卯 卜 庚 𫹉 禱 󱊾",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "𫹉": 1,
+   "禱": 1,
+   "󱊾": 1
+  },
+  "corpus": "丁卯卜，庚酒𠦪（禱）。"
+ },
+ {
+  "glyph": "󺉇",
+  "label": "94zt6dsmdc",
+  "freq": 1,
+  "plate": "21252",
+  "group": "師肥筆",
+  "ob": "庚 辰 卜 奏 󺉇 不 我",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "奏": 1,
+   "󺉇": 1
+  },
+  "corpus": "庚辰卜，𠦪（禱）雨，不我。 …允戎。"
+ },
+ {
+  "glyph": "󻹑",
+  "label": "jszwtrqlai",
+  "freq": 1,
+  "plate": "21446",
+  "group": "師小字",
+  "ob": "曰 󻹑 򵮑 八",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󻹑": 1,
+   "򵮑": 1
+  },
+  "corpus": "曰……八月。"
+ },
+ {
+  "glyph": "󴩤",
+  "label": "wrd3sifbau",
+  "freq": 1,
+  "plate": "21570",
+  "group": "非王圓體類和劣體類",
+  "ob": "癸 卯 󵜐 卜 󴩤 往 豕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵜐": 1,
+   "󴩤": 1
+  },
+  "corpus": "用一牛…執。 癸卯，子卜，往豕…"
+ },
+ {
+  "glyph": "󲁏",
+  "label": "bayjrx4i6e",
+  "freq": 1,
+  "plate": "21834",
+  "group": "非王圓體類和劣體類",
+  "ob": "貞 󲁏 以 若 隹",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󲁏": 1
+  },
+  "corpus": "□□〔卜〕，〔我〕鼎（貞）：彘以若，隹□。"
+ },
+ {
+  "glyph": "󻋑",
+  "label": "eq0zcoihok",
+  "freq": 1,
+  "plate": "21880",
+  "group": "非王圓體類和劣體類",
+  "ob": "先 于 女 󻋑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "女": 1,
+   "󻋑": 1
+  },
+  "corpus": "先于母。 叀（惠）巫先。"
+ },
+ {
+  "glyph": "󴱊",
+  "label": "tzqeya1t3a",
+  "freq": 1,
+  "plate": "22010",
+  "group": "非王圓體類",
+  "ob": "酉 貞 亡 󴱊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󴱊": 1
+  },
+  "corpus": "□酉，鼎（貞）：亡。"
+ },
+ {
+  "glyph": "󳻊",
+  "label": "uulphaak6s",
+  "freq": 1,
+  "plate": "22290",
+  "group": "婦女類",
+  "ob": "貞 󵜐 󳻊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󵜐": 1,
+   "󳻊": 1
+  },
+  "corpus": "丁亥，鼎（貞）：豐。 鼎（貞）：水。 三 丁子（巳），兄咎。 一 丁示咎不。 二 鼎（貞）：子騎。"
+ },
+ {
+  "glyph": "󴲤",
+  "label": "ilh8kgxttw",
+  "freq": 1,
+  "plate": "22356",
+  "group": "師小字",
+  "ob": "七 豕 󴲤 月 四",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴲤": 1
+  },
+  "corpus": "七豕。四月。 三冊。冊。 一 凡。 三"
+ },
+ {
+  "glyph": "󶨧",
+  "label": "xbrbbm12wm",
+  "freq": 1,
+  "plate": "22500",
+  "group": "師小字C—師歷間B",
+  "ob": "癸 卯 卜 貞 王 󶨧 󷟸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶨧": 1,
+   "󷟸": 1
+  },
+  "corpus": "癸卯卜，鼎（貞）：王… □□卜…■…"
+ },
+ {
+  "glyph": "󷟸",
+  "label": "fdqh7fcjf2",
+  "freq": 1,
+  "plate": "22500",
+  "group": "師小字C—師歷間B",
+  "ob": "癸 卯 卜 貞 王 󶨧 󷟸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶨧": 1,
+   "󷟸": 1
+  },
+  "corpus": "癸卯卜，鼎（貞）：王… □□卜…■…"
+ },
+ {
+  "glyph": "󺗒",
+  "label": "3cv4e1htww",
+  "freq": 1,
+  "plate": "22508",
+  "group": "",
+  "ob": "卜 貞 酉 󵜐 󺗒 佑 疒 弗",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󵜐": 1,
+   "󺗒": 1,
+   "佑": 1,
+   "疒": 1
+  },
+  "corpus": "□□卜，鼎（貞）：酉子㞢〔疒（疾）〕弗…"
+ },
+ {
+  "glyph": "󻟟",
+  "label": "xllb905eed",
+  "freq": 1,
+  "plate": "22535",
+  "group": "不詳",
+  "ob": "不 󻟟",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󻟟": 1
+  },
+  "corpus": "不※。"
+ },
+ {
+  "glyph": "󹽚",
+  "label": "94cjz9jg9y",
+  "freq": 1,
+  "plate": "23705",
+  "group": "出一",
+  "ob": "甲 子 卜 出 貞 東 㞢 以 󹽚 于 師 歸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "東": 1,
+   "󹽚": 1,
+   "師": 1
+  },
+  "corpus": "甲子卜，出鼎（貞）：󾋃㞢以于𠂤歸。 鼎（貞）：卒，若，亡尤。 戊午。 己未。"
+ },
+ {
+  "glyph": "󶜾",
+  "label": "b6y3pr9x2a",
+  "freq": 1,
+  "plate": "24366",
+  "group": "出二",
+  "ob": "午 卜 王 在 󶜾 卜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 1,
+   "󶜾": 1
+  },
+  "corpus": "壬午卜，王。才（在）卜。"
+ },
+ {
+  "glyph": "󹜸",
+  "label": "egd60be7r0",
+  "freq": 1,
+  "plate": "24379",
+  "group": "出二",
+  "ob": "在 󹜸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 1,
+   "󹜸": 1
+  },
+  "corpus": "才（在）※（樓）。"
+ },
+ {
+  "glyph": "󶭵",
+  "label": "dmio574hpd",
+  "freq": 1,
+  "plate": "24403",
+  "group": "出二",
+  "ob": "卜 即 貞 󶭵 于 󴋫 四 月",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶭵": 1,
+   "󴋫": 1
+  },
+  "corpus": "□□卜，即鼎（貞）：…于。四月。"
+ },
+ {
+  "glyph": "󳄽",
+  "label": "lezatbpl1f",
+  "freq": 1,
+  "plate": "24899",
+  "group": "出二",
+  "ob": "甲 申 貞 󳄽",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳄽": 1
+  },
+  "corpus": "甲申〔卜〕，□鼎（貞）：…… 一 …王（賓）… …椎，雨。"
+ },
+ {
+  "glyph": "󻊥",
+  "label": "r1qimk9d4z",
+  "freq": 1,
+  "plate": "25628",
+  "group": "出一",
+  "ob": "丁 未 卜 出 貞 祼 告 󻊥 于 󾰺",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󻊥": 1,
+   "󾰺": 1
+  },
+  "corpus": "丁未卜，出鼎（貞）：祼告于□。十二月。 二 隹（唯）若。"
+ },
+ {
+  "glyph": "󶎇",
+  "label": "46aok4e9hb",
+  "freq": 1,
+  "plate": "26089",
+  "group": "出",
+  "ob": "󾟷 南 󶎇 若",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾟷": 1,
+   "南": 1,
+   "󶎇": 1
+  },
+  "corpus": "…■※豰■…若。"
+ },
+ {
+  "glyph": "󹈵",
+  "label": "xcu1fsj3pe",
+  "freq": 1,
+  "plate": "70",
+  "group": "師小字B",
+  "ob": "寅 卜 貞 步 不 󹈵 眾",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󹈵": 1
+  },
+  "corpus": "□寅卜，□鼎（貞）：步，不（屎—失）眾。"
+ },
+ {
+  "glyph": "󾦁",
+  "label": "59ts5ymavk",
+  "freq": 1,
+  "plate": "5433",
+  "group": "偽刻",
+  "ob": "辛 丑 卜 王 出 󾦁 弜",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾦁": 1
+  },
+  "corpus": "辛丑卜：王出弜。"
+ },
+ {
+  "glyph": "󶛵",
+  "label": "59lmys7y2s",
+  "freq": 1,
+  "plate": "5514",
+  "group": "典賓B",
+  "ob": "貞 立 󶛵 史",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶛵": 1
+  },
+  "corpus": "鼎（貞）：立史（事）。"
+ },
+ {
+  "glyph": "󵻺",
+  "label": "9ayc3k0dxu",
+  "freq": 1,
+  "plate": "5563",
+  "group": "典賓B",
+  "ob": "󵻺 御",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵻺": 1,
+   "御": 1
+  },
+  "corpus": "…（御）史（事）。"
+ },
+ {
+  "glyph": "󶓀",
+  "label": "5cuto8p2fx",
+  "freq": 1,
+  "plate": "6869",
+  "group": "賓一",
+  "ob": "󵜐 敦 󶓀",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵜐": 1,
+   "敦": 1,
+   "󶓀": 1
+  },
+  "corpus": "…子…𦎫缶。"
+ },
+ {
+  "glyph": "󰸉",
+  "label": "xwpx2aiwi7",
+  "freq": 1,
+  "plate": "8351",
+  "group": "賓出",
+  "ob": "其 亡 巛 在 󰸉",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巛": 1,
+   "在": 1,
+   "󰸉": 1
+  },
+  "corpus": "…其…亡𡿧（災）才（在）。"
+ },
+ {
+  "glyph": "󿪢",
+  "label": "mf2902f6ro",
+  "freq": 1,
+  "plate": "10577",
+  "group": "賓一—典賓A",
+  "ob": "󿪢 田 不 其",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󿪢": 1
+  },
+  "corpus": "己□〔卜〕，…鼎（貞）：…不… …※田…不其…"
+ },
+ {
+  "glyph": "󰦋",
+  "label": "ivbw1o50yg",
+  "freq": 1,
+  "plate": "17912",
+  "group": "典賓",
+  "ob": "󰦋 󿫒",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󰦋": 1,
+   "󿫒": 1
+  },
+  "corpus": "……三千…"
+ },
+ {
+  "glyph": "󴲍",
+  "label": "x8df98b9m0",
+  "freq": 1,
+  "plate": "18019",
+  "group": "典賓B",
+  "ob": "己 󴲍",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴲍": 1
+  },
+  "corpus": "己…※…曰■…王…"
+ },
+ {
+  "glyph": "󾋰",
+  "label": "tjt5illw2p",
+  "freq": 1,
+  "plate": "18164",
+  "group": "賓出",
+  "ob": "己 卯 󾋰",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󾋰": 1
+  },
+  "corpus": "己卯…"
+ },
+ {
+  "glyph": "󶨕",
+  "label": "khqn7h3zps",
+  "freq": 1,
+  "plate": "18166",
+  "group": "賓出",
+  "ob": "󶨕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶨕": 1
+  },
+  "corpus": "…󾊳…𡆥（憂）。 一"
+ },
+ {
+  "glyph": "󽫪",
+  "label": "ju8og5msxm",
+  "freq": 1,
+  "plate": "18512",
+  "group": "典賓B",
+  "ob": "貞 󽫪 其",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󽫪": 1
+  },
+  "corpus": "鼎（貞）：速…其… 四"
+ },
+ {
+  "glyph": "󴰾",
+  "label": "sxmr1dejq2",
+  "freq": 1,
+  "plate": "20307",
+  "group": "師肥筆",
+  "ob": "待 不 󴰾 王",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "待": 1,
+   "󴰾": 1
+  },
+  "corpus": "…戠不王…"
+ },
+ {
+  "glyph": "󶭭",
+  "label": "2nz3zp3pmu",
+  "freq": 1,
+  "plate": "20750",
+  "group": "師小字",
+  "ob": "丁 卯 卜 𫹔 令 󶭭",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "𫹔": 1,
+   "󶭭": 1
+  },
+  "corpus": "丁卯卜，，令（獸—狩)… □□卜…（獸—狩)… …父…"
+ },
+ {
+  "glyph": "󼹸",
+  "label": "8wzlxmpbz0",
+  "freq": 1,
+  "plate": "21460",
+  "group": "師小字",
+  "ob": "己 未 󼹸",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼹸": 1
+  },
+  "corpus": "己未……"
+ },
+ {
+  "glyph": "󺢗",
+  "label": "r03zb70e9r",
+  "freq": 1,
+  "plate": "21479",
+  "group": "師小字",
+  "ob": "丁 酉 卜 乎 多 方 򤚍 󺢗",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򤚍": 1,
+   "󺢗": 1
+  },
+  "corpus": "丁酉卜：乎（呼）多方。"
+ },
+ {
+  "glyph": "󶾏",
+  "label": "ckhg2g5iq2",
+  "freq": 1,
+  "plate": "21522",
+  "group": "非王圓體類和劣體類",
+  "ob": "󶾏 祝 戉",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶾏": 1,
+   "祝": 1
+  },
+  "corpus": "…兄戉。"
+ },
+ {
+  "glyph": "󶱌",
+  "label": "9mbfk67sq4",
+  "freq": 1,
+  "plate": "22536",
+  "group": "後岡",
+  "ob": "丙 辰 󶱌 禾",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶱌": 1
+  },
+  "corpus": "丙辰※禾。 一 二 三"
+ },
+ {
+  "glyph": "󶅫",
+  "label": "o7rxqft52e",
+  "freq": 1,
+  "plate": "29783",
+  "group": "無名組",
+  "ob": "其 𢦚 戈 一 󶅫 九 佑",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󶅫": 1,
+   "佑": 1
+  },
+  "corpus": "…又… 其𢦚戈一，斧九。 大食其亦用九牛。 □𠩺。"
+ },
+ {
+  "glyph": "󰽝",
+  "label": "lebb92n5gt",
+  "freq": 1,
+  "plate": "30171",
+  "group": "無名組",
+  "ob": "󰽝 尞 其 方 佑 大 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󰽝": 1,
+   "尞": 1,
+   "佑": 1
+  },
+  "corpus": "辛… 至來辛亡大雨。 ※燎其方，又（有）大雨。"
+ },
+ {
+  "glyph": "󰸕",
+  "label": "pfscmtnqbm",
+  "freq": 1,
+  "plate": "30215",
+  "group": "何組",
+  "ob": "卜 򶫺 󰸕 啟 翦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򶫺": 1,
+   "󰸕": 1,
+   "啟": 1,
+   "翦": 1
+  },
+  "corpus": "□□卜，※〔鼎（貞）〕：…※启（啟）…（翦）。 鼎（貞）：叀（惠）…（翦）。 大吉"
+ },
+ {
+  "glyph": "󷵠",
+  "label": "zreu243tyr",
+  "freq": 1,
+  "plate": "30283",
+  "group": "無名組",
+  "ob": "佑 鬲 其 延 󷵠 父 甲 門",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "佑": 1,
+   "延": 1,
+   "󷵠": 1
+  },
+  "corpus": "又鬲，其𢓊（延）父甲門。"
+ },
+ {
+  "glyph": "󹲮",
+  "label": "587vsj71cs",
+  "freq": 1,
+  "plate": "30295",
+  "group": "無名組",
+  "ob": "其 󹲮 先",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹲮": 1
+  },
+  "corpus": "其先（？）… 其乍（作）亞宗。"
+ },
+ {
+  "glyph": "󳴃",
+  "label": "noyypvbg20",
+  "freq": 1,
+  "plate": "30347",
+  "group": "何組",
+  "ob": "癸 亥 卜 彭 貞 󳴃 其 佑 于 室",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳴃": 1,
+   "佑": 1,
+   "室": 1
+  },
+  "corpus": "辛…鼎（貞）：… 鼎（貞）：于𡧊。 癸亥卜，彭鼎（貞）：其又于。 癸亥卜，〔鼎（貞）〕：于𡧊。"
+ },
+ {
+  "glyph": "󲾜",
+  "label": "uw9w7g847l",
+  "freq": 1,
+  "plate": "30442",
+  "group": "何組",
+  "ob": "卜 󲾜 󵀒 王 賓",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󲾜": 1,
+   "󵀒": 1,
+   "賓": 1
+  },
+  "corpus": "■其冓（遘）雨。 □□卜：※（巂？）……王（賓）…"
+ },
+ {
+  "glyph": "󱒇",
+  "label": "812nh3gzrb",
+  "freq": 1,
+  "plate": "30526",
+  "group": "無名組",
+  "ob": "御 于 󱒇 亡 巛",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "御": 1,
+   "󱒇": 1,
+   "巛": 1
+  },
+  "corpus": "孚，于，亡※（災）。"
+ },
+ {
+  "glyph": "󸏕",
+  "label": "irwwgkc3py",
+  "freq": 1,
+  "plate": "30613",
+  "group": "何組",
+  "ob": "叀 򥧠 󸏕",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򥧠": 1,
+   "󸏕": 1
+  },
+  "corpus": "叀（惠）■…"
+ },
+ {
+  "glyph": "󼰛",
+  "label": "7eni93zlhs",
+  "freq": 1,
+  "plate": "30614",
+  "group": "無名組",
+  "ob": "其 祝 󼰛",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󼰛": 1
+  },
+  "corpus": "其祝，叀（惠）王※又正。"
+ },
+ {
+  "glyph": "󹠵",
+  "label": "ha4qh8t2sw",
+  "freq": 1,
+  "plate": "31057",
+  "group": "何組",
+  "ob": "貞 其 升 于 升 󹠵",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "升": 1,
+   "󹠵": 1
+  },
+  "corpus": "鼎（貞）：其…升于…※ ※。 □□卜：今日…※…災。"
+ },
+ {
+  "glyph": "󻫐",
+  "label": "qyg9g9hii5",
+  "freq": 1,
+  "plate": "31983",
+  "group": "歷二B1",
+  "ob": "丁 酉 卜 亞 򤸘 以 眾 涉 于 󻫐 若",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򤸘": 1,
+   "以": 1,
+   "󻫐": 1
+  },
+  "corpus": "丁酉卜：亞（畢）※（以）眾涉于西，若。 二"
+ },
+ {
+  "glyph": "󵄲",
+  "label": "rfxejqz8as",
+  "freq": 1,
+  "plate": "32038",
+  "group": "歷二B2",
+  "ob": "示 󵄲 羌",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󵄲": 1,
+   "羌": 1
+  },
+  "corpus": "示〔其〕※（羌）。 〔癸〕亥，弜（勿）逆（羌）。"
+ },
+ {
+  "glyph": "󼯭",
+  "label": "emizdscukm",
+  "freq": 1,
+  "plate": "32048",
+  "group": "歷草、歷二B1同版",
+  "ob": "癸 亥 卜 令 󳪫 󾗋 比 沚 戈 曾 󼯭 祸 土 石 奠 名 任",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󳪫": 1,
+   "󾗋": 1,
+   "曾": 1,
+   "󼯭": 1,
+   "祸": 1
+  },
+  "corpus": "辛… 辛〔酉〕…帚（歸）沚〔戈〕。 辛酉叀（惠）甫令。 于癸令。 癸亥卜：令比沚戈※𡆥（憂）土石奠名任。 …令…尸（夷）…方… …又伐〔于〕司三十（羌），卯三十豲。"
+ },
+ {
+  "glyph": "󴑹",
+  "label": "gsp1aliedr",
+  "freq": 1,
+  "plate": "32148",
+  "group": "歷二B1",
+  "ob": "其 用 󴑹 羊",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴑹": 1
+  },
+  "corpus": "其燎。 其用羊。 〔丙〕辰卜：翼（翌）丁子（巳）先用三牢、（羌），于酉用。"
+ },
+ {
+  "glyph": "󲏦",
+  "label": "3p906vor19",
+  "freq": 1,
+  "plate": "32295",
+  "group": "歷二B1",
+  "ob": "焚 同 于 󲏦 雨",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "焚": 1,
+   "同": 1,
+   "󲏦": 1
+  },
+  "corpus": "…※（焚）※于，雨。 …上甲至于父丁十…"
+ },
+ {
+  "glyph": "󴪧",
+  "label": "4wsrhqopug",
+  "freq": 1,
+  "plate": "32351",
+  "group": "歷二C2",
+  "ob": "于 㘡 󴪧 劦",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "㘡": 1,
+   "󴪧": 1,
+   "劦": 1
+  },
+  "corpus": "…于上甲彡。"
+ },
+ {
+  "glyph": "󼒭",
+  "label": "yszlaw22lm",
+  "freq": 1,
+  "plate": "32444",
+  "group": "歷一B",
+  "ob": "癸 巳 卜 成 求 󼒭",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "󼒭": 1
+  },
+  "corpus": "癸子（巳）卜：成求（咎）※（我）。 □□卜…"
+ },
+ {
+  "glyph": "󰦀",
+  "label": "t1r1jjd8v1",
+  "freq": 1,
+  "plate": "32486",
+  "group": "歷一B（第4辭）、歷二A1（第1-3辭）同版",
+  "ob": "酉 貞 王 步 󰦀 于 勞",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󰦀": 1,
+   "勞": 1
+  },
+  "corpus": "戊辰鼎（貞）：于大甲玨，三牛。 二 □□卜…■…牛。 …于大甲玨，一牛。 □酉鼎（貞）：王步自（？）于（勞）。"
+ },
+ {
+  "glyph": "󹥠",
+  "label": "ahpipvmufk",
+  "freq": 1,
+  "plate": "32835",
+  "group": "歷二A",
+  "ob": "叀 󹥠 令",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󹥠": 1
+  },
+  "corpus": "庚□〔卜〕：其…杸…大… 叀（惠）小史。 二 庚午卜：王令。二 叀（惠）令。 叀（惠）戈令。 叀（惠）（畢）令。 二 丙申卜：■…"
+ },
+ {
+  "glyph": "󴷨",
+  "label": "gcl8bbz6jf",
+  "freq": 1,
+  "plate": "32922",
+  "group": "歷二B2",
+  "ob": "叀 󴷨 令",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󴷨": 1
+  },
+  "corpus": "…■… 二 丁丑鼎（貞）：比。 二 叀（惠）※令。 二 叀（惠）令。 二 叀（惠）※令。 二 丁丑…… 二 叀（惠）且（祖）乙彡。 二"
+ },
+ {
+  "glyph": "󻊪",
+  "label": "3ade45dwte",
+  "freq": 1,
+  "plate": "32926",
+  "group": "歷二B2",
+  "ob": "甲 戌 貞 令 󻊪",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󻊪": 1
+  },
+  "corpus": "…鼎（貞）…亡（？）… 甲戌鼎（貞）：令䧅。 甲戌鼎（貞）：令。 □□鼎（貞）：…聲…𡆥（憂）。"
+ },
+ {
+  "glyph": "󳤿",
+  "label": "ptbmxdfm3i",
+  "freq": 1,
+  "plate": "32934",
+  "group": "歷二A2",
+  "ob": "丙 寅 貞 行 叀 󳤿 弘 用 若",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󳤿": 1,
+   "弘": 1
+  },
+  "corpus": "丙寅鼎（貞）：行叀（惠）※※用，若。 一"
+ },
+ {
+  "glyph": "󽹾",
+  "label": "at0f17pekv",
+  "freq": 1,
+  "plate": "32935",
+  "group": "歷二C1",
+  "ob": "乙 亥 貞 󽹾 弜 御 方",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󽹾": 1,
+   "御": 1
+  },
+  "corpus": "癸酉鼎（貞）：※（翌）乙亥酒〔歲〕于大乙。 茲用 乙亥鼎（貞）：弜（勿）（禦）方。 一 弜（勿）正（征）方才（在）□。 一"
+ },
+ {
+  "glyph": "󰑯",
+  "label": "owcp73s8go",
+  "freq": 1,
+  "plate": "32937",
+  "group": "歷二C1",
+  "ob": "亥 貞 在 󰑯 防 來",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "在": 1,
+   "󰑯": 1,
+   "防": 1
+  },
+  "corpus": "□亥鼎（貞）：才（在）（衛）來。"
+ },
+ {
+  "glyph": "󻌡",
+  "label": "9vw70byryn",
+  "freq": 1,
+  "plate": "32939",
+  "group": "歷二A2",
+  "ob": "戊 寅 貞 王 令 󻌡 翌 己 卯 步",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󻌡": 1,
+   "翌": 1
+  },
+  "corpus": "戊寅鼎（貞）：王令※※（翌）己卯步。 一"
+ },
+ {
+  "glyph": "󻮼",
+  "label": "xcwma5914e",
+  "freq": 1,
+  "plate": "33041",
+  "group": "歷二B3",
+  "ob": "己 臿 󳓽 于 󻮼 冓",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "臿": 1,
+   "󳓽": 1,
+   "󻮼": 1
+  },
+  "corpus": "己亥…… 己亥…其于，冓（遘）。 弗冓（遘）。"
+ },
+ {
+  "glyph": "󸠹",
+  "label": "cz9doc0d73",
+  "freq": 1,
+  "plate": "33045",
+  "group": "無名",
+  "ob": "寅 卜 方 其 至 于 󸠹 師",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "󸠹": 1,
+   "師": 1
+  },
+  "corpus": "□寅卜：方其至于𠂤…"
+ },
+ {
+  "glyph": "󻾡",
+  "label": "s4dnc91sl4",
+  "freq": 1,
+  "plate": "33087",
+  "group": "歷一A",
+  "ob": "丁 巳 卜 王 在 大 򭬊 򰶖 允 󻾡 在 誖",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 2,
+   "巳": 1,
+   "大": 1,
+   "򭬊": 1,
+   "򰶖": 1,
+   "󻾡": 1
+  },
+  "corpus": "丁子（巳）卜：王才（在）…※，允※（翦），才（在）。"
+ },
+ {
+  "glyph": "󽮺",
+  "label": "df1fjpfewv",
+  "freq": 1,
+  "plate": "33207",
+  "group": "歷二C2",
+  "ob": "在 北 󽮺 西",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "在": 1,
+   "󽮺": 1
+  },
+  "corpus": "甲子…王■… …■才（在）北※西。"
+ },
+ {
+  "glyph": "󶭛",
+  "label": "kbac52iw6u",
+  "freq": 1,
+  "plate": "33269",
+  "group": "歷二B2",
+  "ob": "己 丑 貞 王 󶭛 受 禾",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "󶭛": 1
+  },
+  "corpus": "癸…又■…人…牢…■… 己丑鼎（貞）：王※（𥝩）黍，受禾。 弗受禾。 三"
+ },
+ {
+  "glyph": "󹛟",
+  "label": "xq6hizhbmv",
+  "freq": 1,
+  "plate": "33286",
+  "group": "歷二B3",
+  "ob": "乙 巳 貞 叀 󹛟 先 伐",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "巳": 1,
+   "貞": 1,
+   "󹛟": 1
+  },
+  "corpus": "乙… 乙子（巳）鼎（貞）：叀（惠）龜先伐。 庚戌鼎（貞）：𠦪（禱）禾于示壬。 癸丑鼎（貞）：尋𠦪（禱）禾于河。 □丑鼎（貞）：尋〔𠦪（禱）〕禾〔于〕高且（祖）。"
+ },
+ {
+  "glyph": "󻵗",
+  "label": "f31a6zuqwf",
+  "freq": 1,
+  "plate": "35435",
+  "group": "黃",
+  "ob": "桑 亡 򶫴 王 侃 󻵗 从 東 冓 之 㘡",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "򶫴": 1,
+   "侃": 1,
+   "󻵗": 1,
+   "从": 1,
+   "冓": 1,
+   "之": 1
+  },
+  "corpus": "□□〔卜，才（在）〕桑，〔鼎（貞）〕：…亡（憂）。王…𢓊（延），比…東，遘上㘡（甲）…"
+ },
+ {
+  "glyph": "󳵭",
+  "label": "84umwz5kds",
+  "freq": 1,
+  "plate": "35440",
+  "group": "黃",
+  "ob": "乙 丑 卜 貞 王 賓 󳵭 歲 至 于 㘡 亡 尤",
+  "status": "证据不足",
+  "cand": null,
+  "extra": {},
+  "missing": {
+   "貞": 1,
+   "賓": 1,
+   "󳵭": 1
+  },
+  "corpus": "乙丑卜，鼎（貞）：王（賓）武乙歲至于上㘡（甲），亡尤。 鼎（貞）：王（賓），亡尤。"
+ }
+]

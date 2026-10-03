@@ -1,0 +1,21 @@
+# 原始数据（体积大，请从官方来源获取）
+data/obimd/
+data/DZ.json
+data/ZX.json
+data/gxds*/
+data/papers/
+data/*.zip
+data/*.bin
+
+# 本仓库不分发《合集》释文缓存（权利归原编者）
+*.html
+
+# 渲染预览与构建产物
+preview*/
+__pycache__/
+*.pyc
+
+# 与本题无关的工作目录
+work/
+ops/
+research/

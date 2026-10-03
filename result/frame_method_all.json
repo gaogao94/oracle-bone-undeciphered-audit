@@ -1,0 +1,1085 @@
+[
+ {
+  "label": "a7mak4wuom",
+  "glyph": "󼨃",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 □ 取 射"
+  ],
+  "cands": [
+   {
+    "char": "新",
+    "freq": 38
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "yzl6vltidf",
+  "glyph": "󵭟",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "臿 在 □"
+  ],
+  "cands": [
+   {
+    "char": "轡",
+    "freq": 9
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "sawqk4xfna",
+  "glyph": "sawqk4xfna",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "河 □"
+  ],
+  "cands": [
+   {
+    "char": "旁",
+    "freq": 3
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "2aqd8x0a8p",
+  "glyph": "󴦣",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□ 不 大"
+  ],
+  "cands": [
+   {
+    "char": "晵",
+    "freq": 25
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "9ayc3k0dxu",
+  "glyph": "󵻺",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□ 御"
+  ],
+  "cands": [
+   {
+    "char": "弋",
+    "freq": 8
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "x8df98b9m0",
+  "glyph": "󴲍",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "己 □"
+  ],
+  "cands": [
+   {
+    "char": "兇",
+    "freq": 30
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "8wzlxmpbz0",
+  "glyph": "󼹸",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "己 未 □"
+  ],
+  "cands": [
+   {
+    "char": "嚮",
+    "freq": 29
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "fppjmg7fhh",
+  "glyph": "󺃟",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "璧 眔 □"
+  ],
+  "cands": [
+   {
+    "char": "琡",
+    "freq": 11
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "lacjgjmulx",
+  "glyph": "󵃥",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "酉 卜 □ 帚 好"
+  ],
+  "cands": [
+   {
+    "char": "𰋶",
+    "freq": 5
+   }
+  ],
+  "n_cands": 1
+ },
+ {
+  "label": "bt5y2iq3kp",
+  "glyph": "󿧠",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□ 且 乙"
+  ],
+  "cands": [
+   {
+    "char": "󿬯",
+    "freq": 3
+   },
+   {
+    "char": "󿬾",
+    "freq": 21
+   }
+  ],
+  "n_cands": 2
+ },
+ {
+  "label": "hxwcv9yfyk",
+  "glyph": "󹛛",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "亥 卜 □ 貞 旬"
+  ],
+  "cands": [
+   {
+    "char": "彭",
+    "freq": 13
+   },
+   {
+    "char": "何",
+    "freq": 44
+   }
+  ],
+  "n_cands": 2
+ },
+ {
+  "label": "xwpx2aiwi7",
+  "glyph": "󰸉",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "巛 在 □"
+  ],
+  "cands": [
+   {
+    "char": "򴤍",
+    "freq": 4
+   },
+   {
+    "char": "危",
+    "freq": 12
+   }
+  ],
+  "n_cands": 2
+ },
+ {
+  "label": "tjt5illw2p",
+  "glyph": "󾋰",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "己 卯 □"
+  ],
+  "cands": [
+   {
+    "char": "𭮹",
+    "freq": 7
+   },
+   {
+    "char": "立",
+    "freq": 28
+   }
+  ],
+  "n_cands": 2
+ },
+ {
+  "label": "7eni93zlhs",
+  "glyph": "󼰛",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "其 祝 □"
+  ],
+  "cands": [
+   {
+    "char": "򻴒",
+    "freq": 1
+   },
+   {
+    "char": "𣎆",
+    "freq": 32
+   }
+  ],
+  "n_cands": 2
+ },
+ {
+  "label": "zgipta73eu",
+  "glyph": "󵖪",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "卜 爭 □"
+  ],
+  "cands": [
+   {
+    "char": "侚",
+    "freq": 1
+   },
+   {
+    "char": "臨",
+    "freq": 1
+   },
+   {
+    "char": "宓",
+    "freq": 2
+   }
+  ],
+  "n_cands": 3
+ },
+ {
+  "label": "m4rdm8ckxg",
+  "glyph": "󴪢",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "戊 □"
+  ],
+  "cands": [
+   {
+    "char": "鳴",
+    "freq": 8
+   },
+   {
+    "char": "𰙠",
+    "freq": 9
+   },
+   {
+    "char": "叶",
+    "freq": 60
+   }
+  ],
+  "n_cands": 3
+ },
+ {
+  "label": "b6y3pr9x2a",
+  "glyph": "󶜾",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "王 在 □ 卜"
+  ],
+  "cands": [
+   {
+    "char": "潦",
+    "freq": 1
+   },
+   {
+    "char": "夾",
+    "freq": 5
+   },
+   {
+    "char": "勞",
+    "freq": 26
+   }
+  ],
+  "n_cands": 3
+ },
+ {
+  "label": "z6qjin0qqt",
+  "glyph": "󾒻",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□ 以"
+  ],
+  "cands": [
+   {
+    "char": "癹",
+    "freq": 2
+   },
+   {
+    "char": "򡿪",
+    "freq": 12
+   },
+   {
+    "char": "朕",
+    "freq": 20
+   },
+   {
+    "char": "򮞃",
+    "freq": 25
+   }
+  ],
+  "n_cands": 4
+ },
+ {
+  "label": "czrsscjxwh",
+  "glyph": "󴢲",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "未 卜 □"
+  ],
+  "cands": [
+   {
+    "char": "彭",
+    "freq": 13
+   },
+   {
+    "char": "龍",
+    "freq": 15
+   },
+   {
+    "char": "陷",
+    "freq": 24
+   },
+   {
+    "char": "翊",
+    "freq": 49
+   }
+  ],
+  "n_cands": 4
+ },
+ {
+  "label": "5js6z3yvqi",
+  "glyph": "󴸯",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□ 弗 翦"
+  ],
+  "cands": [
+   {
+    "char": "򦷋",
+    "freq": 2
+   },
+   {
+    "char": "刃",
+    "freq": 5
+   },
+   {
+    "char": "𬙜",
+    "freq": 5
+   },
+   {
+    "char": "𰄟",
+    "freq": 14
+   },
+   {
+    "char": "𢀛",
+    "freq": 54
+   }
+  ],
+  "n_cands": 5
+ },
+ {
+  "label": "64kpdgz5dw",
+  "glyph": "󾣲",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "自 □"
+  ],
+  "cands": [
+   {
+    "char": "𦣦",
+    "freq": 8
+   },
+   {
+    "char": "鼓",
+    "freq": 11
+   },
+   {
+    "char": "橐",
+    "freq": 18
+   },
+   {
+    "char": "下",
+    "freq": 28
+   },
+   {
+    "char": "逐",
+    "freq": 53
+   }
+  ],
+  "n_cands": 5
+ },
+ {
+  "label": "5xld7x764s",
+  "glyph": "󵀈",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "隹 㞢 □"
+  ],
+  "cands": [
+   {
+    "char": "泉",
+    "freq": 3
+   },
+   {
+    "char": "霾",
+    "freq": 4
+   },
+   {
+    "char": "由",
+    "freq": 14
+   },
+   {
+    "char": "咎",
+    "freq": 16
+   },
+   {
+    "char": "韋",
+    "freq": 27
+   }
+  ],
+  "n_cands": 5
+ },
+ {
+  "label": "4zhjejk00h",
+  "glyph": "󹲙",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "尞 于 □"
+  ],
+  "cands": [
+   {
+    "char": "󿬶",
+    "freq": 1
+   },
+   {
+    "char": "䖵",
+    "freq": 10
+   },
+   {
+    "char": "云",
+    "freq": 12
+   },
+   {
+    "char": "兇",
+    "freq": 30
+   },
+   {
+    "char": "東",
+    "freq": 51
+   },
+   {
+    "char": "土",
+    "freq": 55
+   }
+  ],
+  "n_cands": 6
+ },
+ {
+  "label": "ahpipvmufk",
+  "glyph": "󹥠",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "叀 □ 令"
+  ],
+  "cands": [
+   {
+    "char": "𰕮",
+    "freq": 2
+   },
+   {
+    "char": "鑊",
+    "freq": 5
+   },
+   {
+    "char": "疋",
+    "freq": 14
+   },
+   {
+    "char": "葬",
+    "freq": 15
+   },
+   {
+    "char": "戈",
+    "freq": 16
+   },
+   {
+    "char": "򤸘",
+    "freq": 39
+   }
+  ],
+  "n_cands": 6
+ },
+ {
+  "label": "gcl8bbz6jf",
+  "glyph": "󴷨",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "叀 □ 令"
+  ],
+  "cands": [
+   {
+    "char": "𰕮",
+    "freq": 2
+   },
+   {
+    "char": "鑊",
+    "freq": 5
+   },
+   {
+    "char": "疋",
+    "freq": 14
+   },
+   {
+    "char": "葬",
+    "freq": 15
+   },
+   {
+    "char": "戈",
+    "freq": 16
+   },
+   {
+    "char": "򤸘",
+    "freq": 39
+   }
+  ],
+  "n_cands": 6
+ },
+ {
+  "label": "urzeocieq8",
+  "glyph": "󵱙",
+  "freq": 4,
+  "n_ctx": 4,
+  "contexts": [
+   "□ 入",
+   "□ 入",
+   "□ 入",
+   "□ 入"
+  ],
+  "cands": [
+   {
+    "char": "堯",
+    "freq": 1
+   },
+   {
+    "char": "遝",
+    "freq": 1
+   },
+   {
+    "char": "吹",
+    "freq": 2
+   },
+   {
+    "char": "目",
+    "freq": 15
+   },
+   {
+    "char": "擇",
+    "freq": 19
+   },
+   {
+    "char": "峀",
+    "freq": 24
+   }
+  ],
+  "n_cands": 7
+ },
+ {
+  "label": "hruffydq1k",
+  "glyph": "󾣃",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "其 翦 □"
+  ],
+  "cands": [
+   {
+    "char": "򲤢",
+    "freq": 3
+   },
+   {
+    "char": "򸩰",
+    "freq": 3
+   },
+   {
+    "char": "𬙜",
+    "freq": 5
+   },
+   {
+    "char": "盾",
+    "freq": 12
+   },
+   {
+    "char": "疋",
+    "freq": 14
+   },
+   {
+    "char": "陟",
+    "freq": 15
+   }
+  ],
+  "n_cands": 7
+ },
+ {
+  "label": "z5begenlrf",
+  "glyph": "󱏺",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□ 貞 󵜐"
+  ],
+  "cands": [
+   {
+    "char": "侜",
+    "freq": 3
+   },
+   {
+    "char": "眉",
+    "freq": 6
+   },
+   {
+    "char": "妍",
+    "freq": 8
+   },
+   {
+    "char": "󿔣",
+    "freq": 9
+   },
+   {
+    "char": "就",
+    "freq": 13
+   },
+   {
+    "char": "壴",
+    "freq": 18
+   }
+  ],
+  "n_cands": 9
+ },
+ {
+  "label": "uulphaak6s",
+  "glyph": "󳻊",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 󵜐 □"
+  ],
+  "cands": [
+   {
+    "char": "侜",
+    "freq": 3
+   },
+   {
+    "char": "眉",
+    "freq": 6
+   },
+   {
+    "char": "妍",
+    "freq": 8
+   },
+   {
+    "char": "󿔣",
+    "freq": 9
+   },
+   {
+    "char": "就",
+    "freq": 13
+   },
+   {
+    "char": "壴",
+    "freq": 18
+   }
+  ],
+  "n_cands": 9
+ },
+ {
+  "label": "0lplfrdm68",
+  "glyph": "󼂦",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 令 □"
+  ],
+  "cands": [
+   {
+    "char": "朱",
+    "freq": 1
+   },
+   {
+    "char": "䧅",
+    "freq": 4
+   },
+   {
+    "char": "必",
+    "freq": 5
+   },
+   {
+    "char": "㦰",
+    "freq": 11
+   },
+   {
+    "char": "𤴨",
+    "freq": 12
+   },
+   {
+    "char": "陷",
+    "freq": 24
+   }
+  ],
+  "n_cands": 11
+ },
+ {
+  "label": "3ade45dwte",
+  "glyph": "󻊪",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 令 □"
+  ],
+  "cands": [
+   {
+    "char": "朱",
+    "freq": 1
+   },
+   {
+    "char": "䧅",
+    "freq": 4
+   },
+   {
+    "char": "必",
+    "freq": 5
+   },
+   {
+    "char": "㦰",
+    "freq": 11
+   },
+   {
+    "char": "𤴨",
+    "freq": 12
+   },
+   {
+    "char": "陷",
+    "freq": 24
+   }
+  ],
+  "n_cands": 11
+ },
+ {
+  "label": "ju8og5msxm",
+  "glyph": "󽫪",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 □ 其"
+  ],
+  "cands": [
+   {
+    "char": "󉭻",
+    "freq": 1
+   },
+   {
+    "char": "󿓝",
+    "freq": 2
+   },
+   {
+    "char": "榆",
+    "freq": 3
+   },
+   {
+    "char": "󿕁",
+    "freq": 7
+   },
+   {
+    "char": "井",
+    "freq": 15
+   },
+   {
+    "char": "矢",
+    "freq": 16
+   }
+  ],
+  "n_cands": 12
+ },
+ {
+  "label": "egd60be7r0",
+  "glyph": "󹜸",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "在 □"
+  ],
+  "cands": [
+   {
+    "char": "򺈈",
+    "freq": 1
+   },
+   {
+    "char": "折",
+    "freq": 2
+   },
+   {
+    "char": "򩦫",
+    "freq": 4
+   },
+   {
+    "char": "鬥",
+    "freq": 4
+   },
+   {
+    "char": "򴤍",
+    "freq": 4
+   },
+   {
+    "char": "鯀",
+    "freq": 5
+   }
+  ],
+  "n_cands": 13
+ },
+ {
+  "label": "g5n5rqvdxo",
+  "glyph": "󴆻",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "勿 □"
+  ],
+  "cands": [
+   {
+    "char": "愆",
+    "freq": 8
+   },
+   {
+    "char": "复",
+    "freq": 9
+   },
+   {
+    "char": "剛",
+    "freq": 12
+   },
+   {
+    "char": "汏",
+    "freq": 15
+   },
+   {
+    "char": "尊",
+    "freq": 17
+   },
+   {
+    "char": "舟",
+    "freq": 19
+   }
+  ],
+  "n_cands": 14
+ },
+ {
+  "label": "tzqeya1t3a",
+  "glyph": "󴱊",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 亡 □"
+  ],
+  "cands": [
+   {
+    "char": "敗",
+    "freq": 1
+   },
+   {
+    "char": "刓",
+    "freq": 5
+   },
+   {
+    "char": "𰇩",
+    "freq": 9
+   },
+   {
+    "char": "󿂛",
+    "freq": 15
+   },
+   {
+    "char": "追",
+    "freq": 17
+   },
+   {
+    "char": "󿫜",
+    "freq": 18
+   }
+  ],
+  "n_cands": 14
+ },
+ {
+  "label": "xllb905eed",
+  "glyph": "󻟟",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "不 □"
+  ],
+  "cands": [
+   {
+    "char": "󿂑",
+    "freq": 1
+   },
+   {
+    "char": "򳂉",
+    "freq": 1
+   },
+   {
+    "char": "邍",
+    "freq": 4
+   },
+   {
+    "char": "紷",
+    "freq": 6
+   },
+   {
+    "char": "耤",
+    "freq": 6
+   },
+   {
+    "char": "葬",
+    "freq": 15
+   }
+  ],
+  "n_cands": 16
+ },
+ {
+  "label": "8afjjg2cyc",
+  "glyph": "󾤶",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "于 □"
+  ],
+  "cands": [
+   {
+    "char": "瀼",
+    "freq": 1
+   },
+   {
+    "char": "溫",
+    "freq": 2
+   },
+   {
+    "char": "萬",
+    "freq": 2
+   },
+   {
+    "char": "󎵐",
+    "freq": 2
+   },
+   {
+    "char": "𫸥",
+    "freq": 4
+   },
+   {
+    "char": "󿌓",
+    "freq": 4
+   }
+  ],
+  "n_cands": 31
+ },
+ {
+  "label": "6bzmgp7e84",
+  "glyph": "󶓈",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "貞 □"
+  ],
+  "cands": [
+   {
+    "char": "򧇔",
+    "freq": 1
+   },
+   {
+    "char": "阩",
+    "freq": 1
+   },
+   {
+    "char": "匿",
+    "freq": 1
+   },
+   {
+    "char": "帥",
+    "freq": 2
+   },
+   {
+    "char": "奴",
+    "freq": 2
+   },
+   {
+    "char": "𠁬",
+    "freq": 2
+   }
+  ],
+  "n_cands": 67
+ },
+ {
+  "label": "khqn7h3zps",
+  "glyph": "󶨕",
+  "freq": 1,
+  "n_ctx": 1,
+  "contexts": [
+   "□"
+  ],
+  "cands": [
+   {
+    "char": "󁋀",
+    "freq": 1
+   },
+   {
+    "char": "򩦝",
+    "freq": 1
+   },
+   {
+    "char": "朮",
+    "freq": 1
+   },
+   {
+    "char": "杜",
+    "freq": 1
+   },
+   {
+    "char": "󾬤",
+    "freq": 1
+   },
+   {
+    "char": "㇗",
+    "freq": 1
+   }
+  ],
+  "n_cands": 191
+ }
+]

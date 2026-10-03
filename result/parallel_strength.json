@@ -1,0 +1,184 @@
+[
+ {
+  "glyph": "󹥠",
+  "cand": "畢",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "󿧠",
+  "cand": "來",
+  "frame_total": 1,
+  "n_replaceable": 8,
+  "strength": 0.125
+ },
+ {
+  "glyph": "󹛛",
+  "cand": "史",
+  "frame_total": 0,
+  "n_replaceable": 0,
+  "strength": 0.0
+ },
+ {
+  "glyph": "󹲙",
+  "cand": "䖵",
+  "frame_total": 0,
+  "n_replaceable": 0,
+  "strength": 0.0
+ },
+ {
+  "glyph": "󵀈",
+  "cand": "雨",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "󾒻",
+  "cand": "貞",
+  "frame_total": 1,
+  "n_replaceable": 10,
+  "strength": 0.1
+ },
+ {
+  "glyph": "󴆻",
+  "cand": "于",
+  "frame_total": 1,
+  "n_replaceable": 33,
+  "strength": 0.03
+ },
+ {
+  "glyph": "󴷨",
+  "cand": "畢",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "󴲍",
+  "cand": "丑",
+  "frame_total": 1,
+  "n_replaceable": 14,
+  "strength": 0.071
+ },
+ {
+  "glyph": "󵖪",
+  "cand": "貞",
+  "frame_total": 1,
+  "n_replaceable": 6,
+  "strength": 0.167
+ },
+ {
+  "glyph": "󴢲",
+  "cand": "令",
+  "frame_total": 0,
+  "n_replaceable": 0,
+  "strength": 0.0
+ },
+ {
+  "glyph": "󾤶",
+  "cand": "帚",
+  "frame_total": 1,
+  "n_replaceable": 57,
+  "strength": 0.018
+ },
+ {
+  "glyph": "󾣲",
+  "cand": "西",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "󵻺",
+  "cand": "弋",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "󻟟",
+  "cand": "隹",
+  "frame_total": 1,
+  "n_replaceable": 32,
+  "strength": 0.031
+ },
+ {
+  "glyph": "󼹸",
+  "cand": "卜",
+  "frame_total": 1,
+  "n_replaceable": 4,
+  "strength": 0.25
+ },
+ {
+  "glyph": "󳻊",
+  "cand": "眉",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "sawqk4xfna",
+  "cand": "百",
+  "frame_total": 1,
+  "n_replaceable": 3,
+  "strength": 0.333
+ },
+ {
+  "glyph": "󴪢",
+  "cand": "貞",
+  "frame_total": 1,
+  "n_replaceable": 17,
+  "strength": 0.059
+ },
+ {
+  "glyph": "󹜸",
+  "cand": "麋",
+  "frame_total": 1,
+  "n_replaceable": 16,
+  "strength": 0.062
+ },
+ {
+  "glyph": "󽫪",
+  "cand": "眾",
+  "frame_total": 1,
+  "n_replaceable": 7,
+  "strength": 0.143
+ },
+ {
+  "glyph": "󾋰",
+  "cand": "庚",
+  "frame_total": 1,
+  "n_replaceable": 9,
+  "strength": 0.111
+ },
+ {
+  "glyph": "󺂫",
+  "cand": "貞",
+  "frame_total": 1,
+  "n_replaceable": 3,
+  "strength": 0.333
+ },
+ {
+  "glyph": "󶓈",
+  "cand": "啟",
+  "frame_total": 1,
+  "n_replaceable": 145,
+  "strength": 0.007
+ },
+ {
+  "glyph": "󻊪",
+  "cand": "䧅",
+  "frame_total": 0,
+  "n_replaceable": 0,
+  "strength": 0.0
+ },
+ {
+  "glyph": "󶨕",
+  "cand": "受",
+  "frame_total": 1,
+  "n_replaceable": 361,
+  "strength": 0.003
+ }
+]

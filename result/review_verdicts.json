@@ -1,0 +1,299 @@
+[
+ {
+  "glyph": "󲥈",
+  "cand": "貞",
+  "freq": 2,
+  "n_occ": 2,
+  "n_compatible": 0,
+  "verdict": "不相容",
+  "details": [
+   {
+    "piece": "H6910",
+    "prev": "㚔",
+    "next": null,
+    "before_hits": 0,
+    "after_hits": 0
+   },
+   {
+    "piece": "H6911",
+    "prev": "㚔",
+    "next": null,
+    "before_hits": 0,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󴿬",
+  "cand": "򴿒",
+  "freq": 2,
+  "n_occ": 2,
+  "n_compatible": 1,
+  "verdict": "部分相容",
+  "details": [
+   {
+    "piece": "H2828",
+    "prev": "貞",
+    "next": null,
+    "before_hits": 0,
+    "after_hits": 0
+   },
+   {
+    "piece": "HD223",
+    "prev": "◻",
+    "next": "于",
+    "before_hits": 4,
+    "after_hits": 1
+   }
+  ]
+ },
+ {
+  "glyph": "󳩌",
+  "cand": "沚",
+  "freq": 2,
+  "n_occ": 2,
+  "n_compatible": 1,
+  "verdict": "部分相容",
+  "details": [
+   {
+    "piece": "H24246",
+    "prev": "在",
+    "next": "卜",
+    "before_hits": 1,
+    "after_hits": 1
+   },
+   {
+    "piece": "H30391",
+    "prev": null,
+    "next": "佑",
+    "before_hits": 0,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󾢼",
+  "cand": "其",
+  "freq": 2,
+  "n_occ": 2,
+  "n_compatible": 2,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "H5258",
+    "prev": "吉",
+    "next": null,
+    "before_hits": 5,
+    "after_hits": 0
+   },
+   {
+    "piece": "H10063",
+    "prev": null,
+    "next": "它",
+    "before_hits": 0,
+    "after_hits": 1
+   }
+  ]
+ },
+ {
+  "glyph": "󺆑",
+  "cand": "告",
+  "freq": 2,
+  "n_occ": 2,
+  "n_compatible": 1,
+  "verdict": "部分相容",
+  "details": [
+   {
+    "piece": "H15410",
+    "prev": "用",
+    "next": null,
+    "before_hits": 0,
+    "after_hits": 0
+   },
+   {
+    "piece": "H32813",
+    "prev": "侯",
+    "next": null,
+    "before_hits": 3,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󵭯",
+  "cand": "叀",
+  "freq": 2,
+  "n_occ": 2,
+  "n_compatible": 1,
+  "verdict": "部分相容",
+  "details": [
+   {
+    "piece": "H17919",
+    "prev": "貞",
+    "next": "其",
+    "before_hits": 180,
+    "after_hits": 2
+   },
+   {
+    "piece": "H17919",
+    "prev": null,
+    "next": "亡",
+    "before_hits": 0,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󲍤",
+  "cand": "卜",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 0,
+  "verdict": "不相容",
+  "details": [
+   {
+    "piece": "H10467",
+    "prev": "獲",
+    "next": null,
+    "before_hits": 0,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󻊓",
+  "cand": "雀",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "H9086",
+    "prev": "卜",
+    "next": "以",
+    "before_hits": 11,
+    "after_hits": 3
+   }
+  ]
+ },
+ {
+  "glyph": "󼨃",
+  "cand": "新",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "H5759",
+    "prev": "貞",
+    "next": "取",
+    "before_hits": 2,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󺃟",
+  "cand": "琡",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "HD180",
+    "prev": "眔",
+    "next": null,
+    "before_hits": 1,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󴓧",
+  "cand": "殺",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "HD276",
+    "prev": "今",
+    "next": "󿋋",
+    "before_hits": 2,
+    "after_hits": 7
+   }
+  ]
+ },
+ {
+  "glyph": "󺂧",
+  "cand": "貞",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 0,
+  "verdict": "不相容",
+  "details": [
+   {
+    "piece": "H6913",
+    "prev": "戎",
+    "next": null,
+    "before_hits": 0,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󱊾",
+  "cand": "禾",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "H21210",
+    "prev": "禱",
+    "next": null,
+    "before_hits": 66,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󰾀",
+  "cand": "今",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "H20347",
+    "prev": "弜",
+    "next": null,
+    "before_hits": 1,
+    "after_hits": 0
+   }
+  ]
+ },
+ {
+  "glyph": "󵭟",
+  "cand": "轡",
+  "freq": 1,
+  "n_occ": 1,
+  "n_compatible": 1,
+  "verdict": "相容",
+  "details": [
+   {
+    "piece": "H8231",
+    "prev": "在",
+    "next": null,
+    "before_hits": 3,
+    "after_hits": 0
+   }
+  ]
+ }
+]

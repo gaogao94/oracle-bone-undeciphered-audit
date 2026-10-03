@@ -1,0 +1,1069 @@
+[
+ {
+  "label": "urzeocieq8",
+  "glyph": "󵱙",
+  "freq": 4,
+  "n_ctx": 4,
+  "cands": [
+   {
+    "char": "目",
+    "label": "47ioadp9wd",
+    "k_freq": 15
+   },
+   {
+    "char": "擇",
+    "label": "dcn46ntz0p",
+    "k_freq": 19
+   },
+   {
+    "char": "峀",
+    "label": "86d04i30jc",
+    "k_freq": 24
+   },
+   {
+    "char": "冊",
+    "label": "81cqeht6m8",
+    "k_freq": 28
+   }
+  ]
+ },
+ {
+  "label": "zgipta73eu",
+  "glyph": "󵖪",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "臨",
+    "label": "084xuar347",
+    "k_freq": 1
+   },
+   {
+    "char": "侚",
+    "label": "8jtrxi583p",
+    "k_freq": 1
+   },
+   {
+    "char": "宓",
+    "label": "81k3ssygt1",
+    "k_freq": 2
+   }
+  ]
+ },
+ {
+  "label": "z5begenlrf",
+  "glyph": "󱏺",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "侜",
+    "label": "mywhauy2tm",
+    "k_freq": 3
+   },
+   {
+    "char": "眉",
+    "label": "fbmole6hwm",
+    "k_freq": 6
+   },
+   {
+    "char": "妍",
+    "label": "bw6bl0elx5",
+    "k_freq": 8
+   },
+   {
+    "char": "󿔣",
+    "label": "1gypkp7d7r",
+    "k_freq": 9
+   },
+   {
+    "char": "就",
+    "label": "iftkudcar6",
+    "k_freq": 13
+   },
+   {
+    "char": "壴",
+    "label": "8lxqk97zyh",
+    "k_freq": 18
+   }
+  ]
+ },
+ {
+  "label": "0lplfrdm68",
+  "glyph": "󼂦",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "朱",
+    "label": "r09trgtxjq",
+    "k_freq": 1
+   },
+   {
+    "char": "䧅",
+    "label": "x8dr6vkpa0",
+    "k_freq": 4
+   },
+   {
+    "char": "必",
+    "label": "n1l9ttl9ei",
+    "k_freq": 5
+   },
+   {
+    "char": "㦰",
+    "label": "pmx01iziy9",
+    "k_freq": 11
+   },
+   {
+    "char": "𤴨",
+    "label": "bzimognfvp",
+    "k_freq": 12
+   },
+   {
+    "char": "陷",
+    "label": "8sbbzthl9w",
+    "k_freq": 24
+   }
+  ]
+ },
+ {
+  "label": "a7mak4wuom",
+  "glyph": "󼨃",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "新",
+    "label": "cb9eugktzu",
+    "k_freq": 38
+   }
+  ]
+ },
+ {
+  "label": "hruffydq1k",
+  "glyph": "󾣃",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򲤢",
+    "label": "yqwtqscvwf",
+    "k_freq": 3
+   },
+   {
+    "char": "򸩰",
+    "label": "4s3tpt5d8v",
+    "k_freq": 3
+   },
+   {
+    "char": "𬙜",
+    "label": "7ezpstbc1y",
+    "k_freq": 5
+   },
+   {
+    "char": "盾",
+    "label": "0h1vf0twxr",
+    "k_freq": 12
+   },
+   {
+    "char": "疋",
+    "label": "b9q6ewwhki",
+    "k_freq": 14
+   },
+   {
+    "char": "陟",
+    "label": "0r2vse8o96",
+    "k_freq": 15
+   }
+  ]
+ },
+ {
+  "label": "5js6z3yvqi",
+  "glyph": "󴸯",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򦷋",
+    "label": "7hsrnqwx2f",
+    "k_freq": 2
+   },
+   {
+    "char": "𬙜",
+    "label": "7ezpstbc1y",
+    "k_freq": 5
+   },
+   {
+    "char": "刃",
+    "label": "anku02zxgu",
+    "k_freq": 5
+   },
+   {
+    "char": "𰄟",
+    "label": "jbo9t31zqp",
+    "k_freq": 14
+   },
+   {
+    "char": "𢀛",
+    "label": "b2n32mdq0u",
+    "k_freq": 54
+   }
+  ]
+ },
+ {
+  "label": "yzl6vltidf",
+  "glyph": "󵭟",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "轡",
+    "label": "ubq4rpw1wu",
+    "k_freq": 9
+   }
+  ]
+ },
+ {
+  "label": "64kpdgz5dw",
+  "glyph": "󾣲",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "𦣦",
+    "label": "dnmwbqd36a",
+    "k_freq": 8
+   },
+   {
+    "char": "鼓",
+    "label": "kjv0lvcezv",
+    "k_freq": 11
+   },
+   {
+    "char": "橐",
+    "label": "kbaaq0n44y",
+    "k_freq": 18
+   },
+   {
+    "char": "下",
+    "label": "zz00qbgu3m",
+    "k_freq": 28
+   },
+   {
+    "char": "逐",
+    "label": "aq5aoy9xbp",
+    "k_freq": 53
+   }
+  ]
+ },
+ {
+  "label": "8afjjg2cyc",
+  "glyph": "󾤶",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "瀼",
+    "label": "27zri73hga",
+    "k_freq": 1
+   },
+   {
+    "char": "萬",
+    "label": "kzzehs3b2j",
+    "k_freq": 2
+   },
+   {
+    "char": "溫",
+    "label": "buakj9jija",
+    "k_freq": 2
+   },
+   {
+    "char": "󎵐",
+    "label": "yjzpdsoyyo",
+    "k_freq": 2
+   },
+   {
+    "char": "󿌓",
+    "label": "uoe8sjxm4h",
+    "k_freq": 4
+   },
+   {
+    "char": "𫸥",
+    "label": "sst8wbq7kw",
+    "k_freq": 4
+   }
+  ]
+ },
+ {
+  "label": "z6qjin0qqt",
+  "glyph": "󾒻",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "癹",
+    "label": "ogt487t2u1",
+    "k_freq": 2
+   },
+   {
+    "char": "򡿪",
+    "label": "4zv87269nu",
+    "k_freq": 12
+   },
+   {
+    "char": "朕",
+    "label": "9w7u4m625q",
+    "k_freq": 20
+   },
+   {
+    "char": "򮞃",
+    "label": "7f1o1pqd9w",
+    "k_freq": 25
+   }
+  ]
+ },
+ {
+  "label": "bt5y2iq3kp",
+  "glyph": "󿧠",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "󿬯",
+    "label": "g7bwcljlcr",
+    "k_freq": 3
+   },
+   {
+    "char": "󿬾",
+    "label": "zqamwvhq33",
+    "k_freq": 21
+   }
+  ]
+ },
+ {
+  "label": "sawqk4xfna",
+  "glyph": "sawqk4xfna",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "旁",
+    "label": "7wrt6jfhfq",
+    "k_freq": 3
+   }
+  ]
+ },
+ {
+  "label": "4zhjejk00h",
+  "glyph": "󹲙",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "󿬶",
+    "label": "oipdyk6cbe",
+    "k_freq": 1
+   },
+   {
+    "char": "䖵",
+    "label": "u6dc7i5is6",
+    "k_freq": 10
+   },
+   {
+    "char": "云",
+    "label": "zmixmtzym6",
+    "k_freq": 12
+   },
+   {
+    "char": "兇",
+    "label": "gaf7rmekoj",
+    "k_freq": 30
+   },
+   {
+    "char": "東",
+    "label": "0kg5dhdk4s",
+    "k_freq": 51
+   },
+   {
+    "char": "土",
+    "label": "pkibwuo4bv",
+    "k_freq": 55
+   }
+  ]
+ },
+ {
+  "label": "hxwcv9yfyk",
+  "glyph": "󹛛",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "彭",
+    "label": "2s666tklgo",
+    "k_freq": 13
+   },
+   {
+    "char": "何",
+    "label": "llttpz4l8h",
+    "k_freq": 44
+   }
+  ]
+ },
+ {
+  "label": "2aqd8x0a8p",
+  "glyph": "󴦣",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "晵",
+    "label": "vgdnx3zrkn",
+    "k_freq": 25
+   }
+  ]
+ },
+ {
+  "label": "czrsscjxwh",
+  "glyph": "󴢲",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "彭",
+    "label": "2s666tklgo",
+    "k_freq": 13
+   },
+   {
+    "char": "龍",
+    "label": "nq3neh9i5i",
+    "k_freq": 15
+   },
+   {
+    "char": "陷",
+    "label": "8sbbzthl9w",
+    "k_freq": 24
+   },
+   {
+    "char": "翊",
+    "label": "bwcuiuwtaz",
+    "k_freq": 49
+   }
+  ]
+ },
+ {
+  "label": "g5n5rqvdxo",
+  "glyph": "󴆻",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "愆",
+    "label": "1ooijljqrv",
+    "k_freq": 8
+   },
+   {
+    "char": "复",
+    "label": "kmbtnosiha",
+    "k_freq": 9
+   },
+   {
+    "char": "剛",
+    "label": "j0cf8hrkjw",
+    "k_freq": 12
+   },
+   {
+    "char": "汏",
+    "label": "6vdibqvqd8",
+    "k_freq": 15
+   },
+   {
+    "char": "尊",
+    "label": "8u1hzbiq2w",
+    "k_freq": 17
+   },
+   {
+    "char": "舟",
+    "label": "wf3aejbrt3",
+    "k_freq": 19
+   }
+  ]
+ },
+ {
+  "label": "m4rdm8ckxg",
+  "glyph": "󴪢",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "鳴",
+    "label": "za6gsc8sdo",
+    "k_freq": 8
+   },
+   {
+    "char": "𰙠",
+    "label": "9p1cvclas4",
+    "k_freq": 9
+   },
+   {
+    "char": "叶",
+    "label": "r424gd7pwf",
+    "k_freq": 60
+   }
+  ]
+ },
+ {
+  "label": "5xld7x764s",
+  "glyph": "󵀈",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "泉",
+    "label": "ks7w8e60q3",
+    "k_freq": 3
+   },
+   {
+    "char": "霾",
+    "label": "7udfap69mj",
+    "k_freq": 4
+   },
+   {
+    "char": "由",
+    "label": "awebxd6wg1",
+    "k_freq": 14
+   },
+   {
+    "char": "咎",
+    "label": "tyn2yfryvp",
+    "k_freq": 16
+   },
+   {
+    "char": "韋",
+    "label": "rbnqxy5oij",
+    "k_freq": 27
+   }
+  ]
+ },
+ {
+  "label": "6bzmgp7e84",
+  "glyph": "󶓈",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "阩",
+    "label": "r0gb9nvxhz",
+    "k_freq": 1
+   },
+   {
+    "char": "匿",
+    "label": "uzped615x4",
+    "k_freq": 1
+   },
+   {
+    "char": "򧇔",
+    "label": "vszyfvmzzg",
+    "k_freq": 1
+   },
+   {
+    "char": "奴",
+    "label": "x9q4jluo73",
+    "k_freq": 2
+   },
+   {
+    "char": "𠁬",
+    "label": "oav68vru6u",
+    "k_freq": 2
+   },
+   {
+    "char": "帥",
+    "label": "4vpgmxwaa2",
+    "k_freq": 2
+   }
+  ]
+ },
+ {
+  "label": "tzqeya1t3a",
+  "glyph": "󴱊",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "敗",
+    "label": "z4bhaqrpt0",
+    "k_freq": 1
+   },
+   {
+    "char": "刓",
+    "label": "s8bffjoah6",
+    "k_freq": 5
+   },
+   {
+    "char": "𰇩",
+    "label": "l170p06wip",
+    "k_freq": 9
+   },
+   {
+    "char": "󿂛",
+    "label": "49wngttuec",
+    "k_freq": 15
+   },
+   {
+    "char": "追",
+    "label": "16xzhmtg43",
+    "k_freq": 17
+   },
+   {
+    "char": "󿫜",
+    "label": "ef1nwshoqj",
+    "k_freq": 18
+   }
+  ]
+ },
+ {
+  "label": "uulphaak6s",
+  "glyph": "󳻊",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "侜",
+    "label": "mywhauy2tm",
+    "k_freq": 3
+   },
+   {
+    "char": "眉",
+    "label": "fbmole6hwm",
+    "k_freq": 6
+   },
+   {
+    "char": "妍",
+    "label": "bw6bl0elx5",
+    "k_freq": 8
+   },
+   {
+    "char": "󿔣",
+    "label": "1gypkp7d7r",
+    "k_freq": 9
+   },
+   {
+    "char": "就",
+    "label": "iftkudcar6",
+    "k_freq": 13
+   },
+   {
+    "char": "壴",
+    "label": "8lxqk97zyh",
+    "k_freq": 18
+   }
+  ]
+ },
+ {
+  "label": "xllb905eed",
+  "glyph": "󻟟",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򳂉",
+    "label": "sx7ig5dria",
+    "k_freq": 1
+   },
+   {
+    "char": "󿂑",
+    "label": "d3afiaj868",
+    "k_freq": 1
+   },
+   {
+    "char": "邍",
+    "label": "k488tbxgjl",
+    "k_freq": 4
+   },
+   {
+    "char": "紷",
+    "label": "wil5zsif77",
+    "k_freq": 6
+   },
+   {
+    "char": "耤",
+    "label": "irhl4zo3lu",
+    "k_freq": 6
+   },
+   {
+    "char": "葬",
+    "label": "sywfwn7sg1",
+    "k_freq": 15
+   }
+  ]
+ },
+ {
+  "label": "b6y3pr9x2a",
+  "glyph": "󶜾",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "潦",
+    "label": "7nuzvu1uoz",
+    "k_freq": 1
+   },
+   {
+    "char": "夾",
+    "label": "c0j4lyz6aj",
+    "k_freq": 5
+   },
+   {
+    "char": "勞",
+    "label": "clwxtgnjpw",
+    "k_freq": 26
+   }
+  ]
+ },
+ {
+  "label": "egd60be7r0",
+  "glyph": "󹜸",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򺈈",
+    "label": "0wmcj3ydi8",
+    "k_freq": 1
+   },
+   {
+    "char": "折",
+    "label": "7tn35swync",
+    "k_freq": 2
+   },
+   {
+    "char": "򩦫",
+    "label": "dljr7e3ubv",
+    "k_freq": 4
+   },
+   {
+    "char": "鬥",
+    "label": "jshaxuelhn",
+    "k_freq": 4
+   },
+   {
+    "char": "򴤍",
+    "label": "s9pcborf7y",
+    "k_freq": 4
+   },
+   {
+    "char": "鯀",
+    "label": "xoxgvczyyd",
+    "k_freq": 5
+   }
+  ]
+ },
+ {
+  "label": "9ayc3k0dxu",
+  "glyph": "󵻺",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "弋",
+    "label": "srhk7ugxm8",
+    "k_freq": 8
+   }
+  ]
+ },
+ {
+  "label": "xwpx2aiwi7",
+  "glyph": "󰸉",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򴤍",
+    "label": "s9pcborf7y",
+    "k_freq": 4
+   },
+   {
+    "char": "危",
+    "label": "uhn8agncvy",
+    "k_freq": 12
+   }
+  ]
+ },
+ {
+  "label": "x8df98b9m0",
+  "glyph": "󴲍",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "兇",
+    "label": "gaf7rmekoj",
+    "k_freq": 30
+   }
+  ]
+ },
+ {
+  "label": "tjt5illw2p",
+  "glyph": "󾋰",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "𭮹",
+    "label": "cdwgyw3kul",
+    "k_freq": 7
+   },
+   {
+    "char": "立",
+    "label": "i44zmo51c7",
+    "k_freq": 28
+   }
+  ]
+ },
+ {
+  "label": "khqn7h3zps",
+  "glyph": "󶨕",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򺵝",
+    "label": "40g1faed45",
+    "k_freq": 1
+   },
+   {
+    "char": "󾬙",
+    "label": "7lxndqnhv2",
+    "k_freq": 1
+   },
+   {
+    "char": "𤈎",
+    "label": "ya2h4cjfaz",
+    "k_freq": 1
+   },
+   {
+    "char": "𣍪",
+    "label": "dvdjluqxnp",
+    "k_freq": 1
+   },
+   {
+    "char": "򩦛",
+    "label": "rysjgchsua",
+    "k_freq": 1
+   },
+   {
+    "char": "򮻛",
+    "label": "03w9kgybpz",
+    "k_freq": 1
+   }
+  ]
+ },
+ {
+  "label": "ju8og5msxm",
+  "glyph": "󽫪",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "󉭻",
+    "label": "4nvomvnfj0",
+    "k_freq": 1
+   },
+   {
+    "char": "󿓝",
+    "label": "xq3vzel7mw",
+    "k_freq": 2
+   },
+   {
+    "char": "榆",
+    "label": "414nuewqwd",
+    "k_freq": 3
+   },
+   {
+    "char": "󿕁",
+    "label": "hdyubeknoa",
+    "k_freq": 7
+   },
+   {
+    "char": "井",
+    "label": "8ggcq3obcu",
+    "k_freq": 15
+   },
+   {
+    "char": "矢",
+    "label": "medazzhc49",
+    "k_freq": 16
+   }
+  ]
+ },
+ {
+  "label": "8wzlxmpbz0",
+  "glyph": "󼹸",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "嚮",
+    "label": "zi2pxt9kk6",
+    "k_freq": 29
+   }
+  ]
+ },
+ {
+  "label": "7eni93zlhs",
+  "glyph": "󼰛",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "򻴒",
+    "label": "zc2s5bv3x2",
+    "k_freq": 1
+   },
+   {
+    "char": "𣎆",
+    "label": "m32ngscsu1",
+    "k_freq": 32
+   }
+  ]
+ },
+ {
+  "label": "ahpipvmufk",
+  "glyph": "󹥠",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "𰕮",
+    "label": "7bgm052mqy",
+    "k_freq": 2
+   },
+   {
+    "char": "鑊",
+    "label": "0y6gjyc5xl",
+    "k_freq": 5
+   },
+   {
+    "char": "疋",
+    "label": "b9q6ewwhki",
+    "k_freq": 14
+   },
+   {
+    "char": "葬",
+    "label": "sywfwn7sg1",
+    "k_freq": 15
+   },
+   {
+    "char": "戈",
+    "label": "yunhitgxgx",
+    "k_freq": 16
+   },
+   {
+    "char": "򤸘",
+    "label": "gs24si06qj",
+    "k_freq": 39
+   }
+  ]
+ },
+ {
+  "label": "gcl8bbz6jf",
+  "glyph": "󴷨",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "𰕮",
+    "label": "7bgm052mqy",
+    "k_freq": 2
+   },
+   {
+    "char": "鑊",
+    "label": "0y6gjyc5xl",
+    "k_freq": 5
+   },
+   {
+    "char": "疋",
+    "label": "b9q6ewwhki",
+    "k_freq": 14
+   },
+   {
+    "char": "葬",
+    "label": "sywfwn7sg1",
+    "k_freq": 15
+   },
+   {
+    "char": "戈",
+    "label": "yunhitgxgx",
+    "k_freq": 16
+   },
+   {
+    "char": "򤸘",
+    "label": "gs24si06qj",
+    "k_freq": 39
+   }
+  ]
+ },
+ {
+  "label": "3ade45dwte",
+  "glyph": "󻊪",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "朱",
+    "label": "r09trgtxjq",
+    "k_freq": 1
+   },
+   {
+    "char": "䧅",
+    "label": "x8dr6vkpa0",
+    "k_freq": 4
+   },
+   {
+    "char": "必",
+    "label": "n1l9ttl9ei",
+    "k_freq": 5
+   },
+   {
+    "char": "㦰",
+    "label": "pmx01iziy9",
+    "k_freq": 11
+   },
+   {
+    "char": "𤴨",
+    "label": "bzimognfvp",
+    "k_freq": 12
+   },
+   {
+    "char": "陷",
+    "label": "8sbbzthl9w",
+    "k_freq": 24
+   }
+  ]
+ },
+ {
+  "label": "fppjmg7fhh",
+  "glyph": "󺃟",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "琡",
+    "label": "sinjn961eq",
+    "k_freq": 11
+   }
+  ]
+ },
+ {
+  "label": "lacjgjmulx",
+  "glyph": "󵃥",
+  "freq": 1,
+  "n_ctx": 1,
+  "cands": [
+   {
+    "char": "𰋶",
+    "label": "8ppcj3wjwt",
+    "k_freq": 5
+   }
+  ]
+ }
+]
