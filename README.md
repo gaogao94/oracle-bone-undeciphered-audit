@@ -168,6 +168,37 @@ python scripts/fingerprint.py    # 结构指纹检索
 
 ## 许可
 
-- **本仓库原创内容**：CC BY-SA 4.0（署名 ＋ 相同方式共享）
-- **第三方数据**：OBIMD（CC-BY-4.0）、《甲骨文合集》释文与图版（原权利人）
-- 详见 [LICENSE](LICENSE)、[NOTICE.md](NOTICE.md)、[ATTRIBUTION.md](ATTRIBUTION.md)
+**本仓库原创内容采用 CC BY-SA 4.0（署名 ＋ 相同方式共享）。**
+
+使用、修改或分发本仓库内容时，**必须署名，且衍生作品必须以相同许可发布**：
+
+```
+基于「甲骨文未释字的编码缺失筛查与视觉考释尝试」
+作者：gaogao94
+来源：https://github.com/gaogao94/oracle-bone-undeciphered-audit
+许可：CC BY-SA 4.0
+```
+
+| 文件 | 内容 |
+|---|---|
+| [LICENSE](LICENSE) | CC BY-SA 4.0 法律文本 |
+| [COPYRIGHT.md](COPYRIGHT.md) | 版权声明与许可说明 |
+| [NOTICE.md](NOTICE.md) | 署名与再分发的具体要求 |
+| [ATTRIBUTION.md](ATTRIBUTION.md) | 第三方数据来源与权利状态 |
+
+**第三方材料不在授权范围内**：《甲骨文合集》释文与原拓图版（原权利人）、
+OBIMD 数据集（其 CC-BY-4.0）、殷契文渊字形数据、引用文献。详见 [ATTRIBUTION.md](ATTRIBUTION.md)。
+
+---
+
+## 引用
+
+```bibtex
+@misc{gaogao94_oracle_audit_2026,
+  author       = {gaogao94},
+  title        = {甲骨文未释字的编码缺失筛查与视觉考释尝试},
+  year         = {2026},
+  howpublished = {\url{https://github.com/gaogao94/oracle-bone-undeciphered-audit}},
+  note         = {Licensed under CC BY-SA 4.0}
+}
+```
