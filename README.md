@@ -2,6 +2,8 @@
 
 **Auditing "undeciphered" glyphs in the OBIMD oracle-bone corpus**
 
+🌐 **中文**　|　[**English**](README.en.md)
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Data: OBIMD CC-BY-4.0](https://img.shields.io/badge/Data-OBIMD%20CC--BY--4.0-blue.svg)](https://github.com/KLOBIP/OBIMD)
 
