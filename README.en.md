@@ -7,8 +7,10 @@
 ## In one sentence
 
 I set out to decipher an undeciphered oracle-bone character. **I failed.**
-But I found that most of what the `OBIMD` dataset labels "undeciphered" **is labelled wrongly** —
-and I need someone who reads oracle-bone script to check two things for me.
+But I found that the "reference character" layer in the `OBIMD` dataset
+**cannot be used as a list of undeciphered characters** — choosing a topic from it
+lands you on pseudo-problems.
+I need someone who reads oracle-bone script to check two things for me.
 
 ---
 
@@ -35,25 +37,43 @@ glyph is a rare graph. No amount of algorithmic method substitutes for this.
 To attempt the decipherment I compared OBIMD against the transcriptions in 《甲骨文合集》
 (Jiaguwen Heji, the standard corpus). What I found:
 
-> **Among the 243 glyphs OBIMD labels "undeciphered", a substantial number have already
-> been read in 《合集》.**
+> **Among the glyphs OBIMD marks 「无隶定」 ("no transcription"), a substantial number
+> have long since been read in 《合集》.**
 
 For example, this one:
 
 <img src="glyphs/dsv4lhwhn7.png" alt="glyph" height="26" align="middle">
 
-OBIMD says it is undeciphered. But the transcription of 《合集》 plate 17382 reads:
+OBIMD gives it no reference character. But the transcription of 《合集》 plate 17382 reads:
 
 > 鼎（貞）：…二月**娩**，不其…生。
 > *"Divined: ... in the second month she gave birth; will it not be ... born."*
 
-**It is 「娩」 (childbirth).** It appears as "undeciphered" in OBIMD only because
-**the oracle-bone form of 「娩」 is not in Unicode** — the dataset cannot encode it,
-so it falls back to the label "no transcription" (无隶定).
+**It is 「娩」 (childbirth).**
 
-And there is a sharper point: OBIMD reads this **same sentence in the same position
-as 「娩」 in 18 other places**, and marks it undeciphered on plate 17382 only.
+**Why has it no reference character?** Because OBIMD's reference characters come from the
+glyph repertoire of the "Oracle Bone Digitisation Platform", and **the oracle-bone form of
+「娩」 is not in Unicode** — the platform cannot supply a reference character, so the cell
+is left empty. OBIMD's own README states this explicitly: the mapping is **for lookup and
+navigation only, and does not constitute a philological reading**.
+
+**So this is not a fault in OBIMD.** But it creates a trap — see the next section.
+
+There is also a sharper sign: OBIMD reads this **same sentence, same position, as 「娩」
+in 18 other places**, and leaves it empty on plate 17382 only.
 **The dataset contradicts itself.**
+
+---
+
+## Where the trap is
+
+OBIMD is a public dataset and many people will use it for undeciphered-glyph research.
+**If you take "no reference character" to mean "undeciphered" and choose your topic
+accordingly, your problem set will include common characters like 娩, 安, 西, 丘** —
+characters whose readings have been in 《合集》 all along.
+
+**This is not a small matter**: a researcher could spend months on 「娩」 and only then
+discover the answer was established in the 1930s.
 
 ---
 
@@ -116,7 +136,7 @@ is formally dissimilar. This step needs expert judgement.
 
 | Your verdict | What follows |
 |---|---|
-| **Correct** | Then this conclusion becomes citable: **before doing any undeciphered-glyph study on OBIMD, you must first filter out the "not encoded by the dataset" cases — otherwise the problem set contains pseudo-problems** |
+| **Correct** | Then it becomes possible to warn later researchers: **before choosing an undeciphered-glyph topic from OBIMD, first filter against the 《合集》 transcriptions — otherwise you will pick characters that were read long ago** |
 | **No. X is wrong** | I will fix it. This is the most valuable outcome |
 | **The method itself is flawed** | The reliability of this whole repository must be re-assessed |
 
@@ -178,6 +198,25 @@ Recorded so that others do not repeat it:
 **One methodological warning**: OBIMD facsimiles **regularise worn areas**
 (the middle element of `gx21ndp7yy` is triangular in the rubbing but drawn as a rectangle
 in the facsimile). **Any structural judgement must go back to the rubbing.**
+
+---
+
+## About OBIMD
+
+| Item | Value |
+|---|---|
+| Full name | Oracle Bone Inscriptions Multi-modal Dataset |
+| Scale | 10,077 plates, 93,652 annotated characters, 21,941 sentence groups |
+| Content | Pixel-aligned rubbings + facsimiles, detection boxes, character categories, transcriptions, sentence groups, reading order |
+| Licence | CC-BY-4.0 |
+| Where | HuggingFace `KLOBIP/OBIMD` ｜ arXiv [2407.03900](https://arxiv.org/abs/2407.03900) ｜ *Scientific Data* |
+| Institutions | **Xiamen University** (Key Laboratory of Multimedia Trusted Perception and Efficient Computing, MOE) ＋ **Anyang Normal University** (Key Laboratory of Oracle Bone Inscriptions Information Processing, MOE) |
+| Significance | The first large-scale multi-modal OBI corpus, intended to enable end-to-end OBI recognition and interpretation |
+
+**My assessment**: the data quality is high and it is important infrastructure for the field.
+**Nothing in this repository is a criticism of it** — its README already states that the
+reference-character layer "does not constitute a reading". This repository merely points out
+one **specific way that layer is easy to misuse**.
 
 ---
 
