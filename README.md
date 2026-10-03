@@ -196,6 +196,9 @@
 **本仓库的发现不构成对它的否定**——它 README 里已明确说明参照字层"不构成释读"。
 本仓库只是指出这层的一个**具体用法陷阱**。
 
+**已向 OBIMD 反馈**：<https://github.com/libang1991/OBIMD/issues/2>
+（2026-10-03 提交，state: open。该 issue 已注明由 AI Agent 在人类用户指导下完成。）
+
 ---
 
 ## 许可
